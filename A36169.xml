@@ -1,0 +1,1855 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kneeling to God at parting with friends, or, The fraternal intercessory cry of faith and love setting forth and recommending the primitive mode of taking leave / by J. Danforth, pastor of the church of Christ in Dorchester.</title>
+            <author>Danforth, John, 1660-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36169</idno>
+            <idno type="STC">Wing D172</idno>
+            <idno type="STC">ESTC R29696</idno>
+            <idno type="EEBO-CITATION">11192780</idno>
+            <idno type="OCLC">ocm 11192780</idno>
+            <idno type="VID">46661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36169)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46661)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Kneeling to God at parting with friends, or, The fraternal intercessory cry of faith and love setting forth and recommending the primitive mode of taking leave / by J. Danforth, pastor of the church of Christ in Dorchester.</title>
+                  <author>Danforth, John, 1660-1730.</author>
+               </titleStmt>
+               <extent>72 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Green &amp; J. Allin, sold by S. Phillips ...,</publisher>
+                  <pubPlace>Boston [Mass.] :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained, torn, cropped, and tightly bound, with loss of print.</note>
+                  <note>"A poem upon the triumphant translation of a mother in our Israel, viz. Mrs. Anne Eliot, from this life to a better," and "A poem to the blessed memory of Mr. John Eliot," pp. 64-72.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eliot, Anne, d. 1687 --  Poetry.</term>
+               <term>Eliot, John, 1604-1690 --  Poetry.</term>
+               <term>Sermons, American --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46661:1" rendition="simple:additions"/>
+            <pb facs="tcp:46661:1" rendition="simple:additions"/>
+            <p>Kneeling to GOD, At Parting with <hi>Friends:</hi> OR THE <hi>FRATERNAL</hi> Interceſſory CRY Of Faith &amp; Love:</p>
+            <p>Setting forth and Recom<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the Primitive <hi>Mode</hi> of taking <hi>Leave</hi>
+            </p>
+            <p>By <hi>I. Danforth,</hi> Paſtor of the Church of CHRIST in <hi>Dorchester.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 Theſ 5.25.</hi>
+               </bibl> Brethren Pray for <g ref="char:V">Ʋ</g>s.</q>
+            <q>
+               <bibl>
+                  <hi>Col. 1.9.</hi>
+               </bibl> We—do not ceaſe to Pray for You.</q>
+            <q>
+               <bibl>
+                  <hi>1 Sam. 12.23.</hi>
+               </bibl> Moreover, as for Me, GOD forbid that I ſhould SIN againſt the LORD, in CEASING to Pray for You, <hi>&amp;c.</hi>
+            </q>
+            <p>
+               <hi>Boſton,</hi> Printed by <hi>B. Green,</hi> &amp; <hi>J. Allen.</hi> Sold by <hi>S. Phillips,</hi> at the Brick Shop 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:46661:2"/>
+            <head>The Dedication.</head>
+            <p>TO THE RELIGIOUS, CAN DID, AND FAVOURABLE AC<g ref="char:EOLunhyphen"/>CEPTANCE, AND PATRONAGE OF THE VERY HONORABL<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>WILLIAM STO<g ref="char:V">Ʋ</g>GHTON, ESQUIRE,</hi> LIEUTENANT GOVER<g ref="char:EOLunhyphen"/>NOUR AND COMMANDER IN CHIEF <hi>&amp;c.</hi>
+            </p>
+            <p>AS ALSO, OF THE HONORABL<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>OMAS DANFORTH,</hi> Eſq. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>NE OF THE CHIEF JUDGES <hi>&amp;<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> AND OF THE REST OF HIS MA<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ESTIES HONORABLE JUDGES COUNCELLOURS, AND JUST<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>CES, IN THIS PROVINCE: A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ALSO, OF HIS FATHERS, AN<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> BRETHREN, IN <hi>CHRIST I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>SVS,</hi> THE REVEREND MIN<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>STERS OF THE GOSPEL, I THE CHURCHES IN <hi>NEW-EN<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>LAND:</hi> AND LIKEWISE, OF <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>THER LIVING AND LATEL<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:46661:2"/> SIGNALIZED INSTANCES, YEA PATTERNS, OF A TRUE, GENE<g ref="char:EOLhyphen"/>ROUS, PUBLICK SPIRIT, THAT HAVE ALSO APPEARED, AND ARE YET TO BE FOUND, A<g ref="char:EOLhyphen"/>MONG OUR WORTHY MER<g ref="char:EOLhyphen"/>CHANTS, GENTLEMEN, AND OTHER CHRISTIANS; [<hi>WHOSE</hi> ZEALOUS <hi>OBLATIONS</hi> OF PRAYERS, CARES, PAINS, COUN<g ref="char:EOLhyphen"/>TENANCE, AND INFLUENCE, UNTO THE SPREADING OF THE GOSPEL, AND INLARGE<g ref="char:EOLhyphen"/>MENT OF THE KINGDOM O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> CHRIST; AND OF ADDITIONAL MAINTENANCE, TO SOME GODLY PREACHERS, IN SOME POORER PLACES, IS GONE UP FOR A <hi>MEMORIAL</hi> BEFORE <hi>GOD;</hi>] THE UNWORTHY AUTHOR [A SENSIBLE AND DUTIFUL OBSERVER OF THE WORTHY DEEDS, THAT THE SOVERAIGN, AND EFFECTUAL GRACE OF GOD, HATH INA<g ref="char:EOLhyphen"/>BLED YOU TO DOE, BOTH
+<pb facs="tcp:46661:3"/> FOR GOD, AND FOR HIS HOUSE; BEING BY THE CALI OF THE DIVINE PROVIDENCE UPON A SUBJECT, THAT CALI S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> FOR SUCH PATRONS, AS STAND NEEREST TO HIS THRONE OF GRACE; AND BEING BROUGHT UPON THE PUBLICK STAGE, IN A DIFFI<g ref="char:EOLunhyphen"/>CULT TIME, BY UNGAINSAYA<g ref="char:EOLunhyphen"/>BLE IMPORTUNITY;] HUM<g ref="char:EOLunhyphen"/>BLY, AND PROPERLY, RECOM<g ref="char:EOLunhyphen"/>MENDS AND DEDICATES THE FOLLOWING <hi>MEMORIAL FOR PRAYER.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <p>Licenſed by AVTHORITY.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>Publiſhed by</hi> T. Tileſtone, <hi>Senior</hi> H. Leadbetter, N. Clap <hi>Senior,</hi> W Pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> D Preſton, N. Glover; <hi>and Diver Others. <hi>Anno Dom.</hi> MDCXCVII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46661:3"/>
+            <head>Kneeling to GOD at Parting with Friends</head>
+            <epigraph>
+               <bibl>
+                  <hi>ACTS 21.4, 5, 6.</hi>
+               </bibl>
+               <q>And finding <hi>Diſciples,</hi> we tarryed there ſeve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> days, Who ſaid to <hi>Paul,</hi> through the <hi>Spirit</hi> that <hi>be ſhould not go</hi> up to <hi>Jeruſalem.</hi> An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> when <hi>We</hi> had accompliſhed thoſe days, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> departed, and <hi>went our Way,</hi> and <hi>They</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> brought us on our Way, with Wives and Chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dren, till we were out of the City: And <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>KNEELED DOWN ON TH<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> SHORE AND PRAYED.</hi> And wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> We had taken our Leave, one of anothe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> took Ship, and They returned home agai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </q>
+            </epigraph>
+            <opener>
+               <salute>Honorable, Reverend &amp; Beloved in our Lord Ieſus Chriſt.</salute>
+            </opener>
+            <p>A Great part of Sacred Scripture i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtorical:</hi> No part U<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>profitable <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecepta D cent; Exempla Movent</hi> Examples are <hi>Powerful</hi> Preachers The b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rreneſt Ground in Scriptur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="6" facs="tcp:46661:4"/> bears the richeſt <hi>Mines;</hi> Nor can a Child of GOD fall into ſuch a <hi>Caſe</hi> or <hi>Strait,</hi> as for a plentiful <hi>Relief</hi> whereof, this wonderful Trea<g ref="char:EOLhyphen"/>ſury and Store-houſe is unprovided; So Ado<g ref="char:EOLhyphen"/>rable is the <hi>Fulneſs</hi> of the <hi>Scriptures.</hi>
+            </p>
+            <p>To make an Experiment hereof, I have produced <hi>this Text</hi> at <hi>this</hi> Time, when we are upon taking our Leave of ſundry of our dear Brethren, <hi>Ministers</hi> and other <hi>Chriſtians,</hi> now ready to depart from us, unto <hi>divers Places,</hi> upon the Service of the <hi>Kingdom</hi> of <hi>CHRIST;</hi> Nor am I altogether without hope, that it may prove a <hi>Word in Seaſon,</hi> and uſeful, at leaſt, to inſtruct us in ſome conſiderable part of our <hi>preſent Duty;</hi> although between our Caſe, and the Caſe in the Text, in ſome parti<g ref="char:EOLhyphen"/>culars, there be no <hi>Compariſon,</hi> or <hi>Parallel.</hi>
+            </p>
+            <p>Our Text is a ſmall Paragraph of the Hi<g ref="char:EOLhyphen"/>ſtory of <hi>Pauls</hi> Adventures: He had been a <hi>Perſecutor,</hi> Acts 9 1. but now is a <hi>Propagator</hi> of the Goſpel: and through Soveraign <hi>Good<g ref="char:EOLunhyphen"/>neſs</hi> He is choſen and made a Firſt Rate Veſſel to bear <hi>Chriſt's</hi> Name before the <hi>Gentiles</hi> far and near. Yet Rectoral Paternal <hi>Holineſs</hi> will ſhew Him how great things he muſt ſuf<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, himſelf, not from <hi>Others</hi> only, but from <hi>Chriſtians</hi> alſo, <hi>whom</hi> He had made before the Subj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts of Sufferings. 'Twas not enoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that an Uncomfortable Contention had parte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Him,</hi> and his Com<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortable Companion, <hi>Bar<g ref="char:EOLunhyphen"/>nabas,</hi>
+               <pb n="7" facs="tcp:46661:4"/> that Son of Conſolation, [Acts 13.1, 2. &amp; 15.39, 40.] But, when, after a large Circuit, (being called by the Spirit from one place to another) He is now bound, in the <hi>Spirit, to go to Jeruſalem,</hi> (Acts 20.16, 22, 23.) Behold! the Diſciples at <hi>Tyre,</hi> ſaid to <hi>Paul,</hi> by the <hi>Spirit,</hi> that He ſhould <hi>not go</hi> up unto <hi>Jeruſalem.</hi> What a perplexing exerciſe was this to the mind of <hi>Paul!</hi> And doth the <hi>Spirit</hi> indeed firſt <hi>Bid,</hi> and then <hi>Forbid?</hi> Doth he ſay <hi>one</hi> thing at <hi>Miletum,</hi> and <hi>another</hi> thing at <hi>Tyre?</hi> I ſuppoſe it not: But that when the <hi>Holy Spirit</hi> certifyed Them of the Bonds and Afflictions which <hi>Paul</hi> muſt endure at <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> [as He had before-hand, and did after<g ref="char:EOLhyphen"/>wards alſo certify <hi>Paul</hi> and other <hi>Saints</hi> of the ſame, Acts 20.23: &amp; 21.11.] then the Diſ<g ref="char:EOLunhyphen"/>ciples at <hi>Tyre</hi> did [as did the Diſciples at <hi>Ce<g ref="char:EOLunhyphen"/>ſarea,</hi> Acts 21.12.] <hi>by their own Spirits</hi> en<g ref="char:EOLhyphen"/>deavour to diſſwade Him from this Adventure. Thus, as our Bleſſed LORD Suffered afflicti<g ref="char:EOLhyphen"/>on from the irregular fondneſs of <hi>Peter.</hi> Mat. 16 22, 23. So <hi>Paul</hi> ſuffers no ſmall perplex<g ref="char:EOLunhyphen"/>ity from his Chriſtian <hi>Friends,</hi> who having a clearer ſight and diſcerning of his <hi>Danger,</hi> than of his <hi>Duty,</hi> and knowing but in part, did ve<g ref="char:EOLhyphen"/>ry ill to intangle the Sacred <hi>Text</hi> of the SPI<g ref="char:EOLhyphen"/>RIT, with their ignorant and fallible, though well meant <hi>Commentarys.</hi>
+            </p>
+            <p>Our Text ſhews us the Renowned Apoſtle
+<pb facs="tcp:46661:5"/> of the Gentiles at the famous Sea-port City of <hi>Tyre:</hi> And in this ſhort Hiſtory, we may Conſider,</p>
+            <p n="1">[1.] His <hi>Arrival at Tyre:</hi> Amplifyed with the Narrative of ſome Rarities that He met with there: <hi>[And finding Diſciples</hi> The <hi>best</hi> of men in the <hi>worſt</hi> of places; Lo the good Seed, long ſince ſprinkled upon th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Tyrians</hi> by the LORD Jeſus, is ſprung up un<g ref="char:EOLunhyphen"/>to a comfortable Harveſt: Diſciples that can<g ref="char:EOLhyphen"/>not <hi>find out</hi> one another, nor conſort together have Shipwreckt and loſt one moſt noble <hi>fa<g ref="char:EOLunhyphen"/>culty</hi> and property of Diſciples of CHRIST.</p>
+            <p n="2">[2] <hi>His Continuance there.</hi> He ſtays lon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enough to enjoy one Sabbath with them: Hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other Work would allow no more; Thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deſires could be ſatisfied with no leſs: Whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Spirit</hi> urgeth to haſten to <hi>Jeruſalem, Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> can't be content to linger at <hi>Tyre.</hi>
+            </p>
+            <p n="3">[3] <hi>His Departure thence:</hi> Illuſtrated.</p>
+            <p n="1">[1] From the <hi>Averſion</hi> of the <hi>Tyrians,</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> account of the Suffering which the Holy Spi<g ref="char:EOLunhyphen"/>rit had ſhewed them that <hi>Paul</hi> would be expo<g ref="char:EOLunhyphen"/>ſed to at <hi>Jeruſalem. [They ſaid to him, by th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirit, that He ſhould not go up to Jeruſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em</hi> [that is] <hi>exc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt he would hazard his Life.</hi> An <hi>Elliptical</hi> Expreſſion; Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to be interp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ted by Clauſes, in this Hiſtory of <hi>Pauls Tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> preceding and following it; as othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Elliptical</hi> Sentences (of which both <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ments</hi>
+               <pb n="9" facs="tcp:46661:5"/> have good ſtore) uſually are: ſo 1 Sam. 23.12 <hi>They will deliver thee up;</hi> it is to be underſtood, with a <hi>Subauditur,</hi> [If thou con<g ref="char:EOLhyphen"/>tinueſt there.] Gen. 30.27. <hi>I pray Thee:</hi> his meaning is; <hi>I pray thee, Tarry with me.</hi> Pſal. 109.4. <hi>I prayer,</hi> Our Tranſlation reads it with a ſupply of the Verb, <hi>I give my ſelf unto Pray<g ref="char:EOLhyphen"/>er.</hi> So in many other places.</p>
+            <p n="2">[2] From the <hi>Reſolution of bleſsed Paul</hi> and his Companions, manifeſted by the Effect of it; <hi>(And we Departed.)</hi>
+            </p>
+            <p n="3">[3.] From the Admirable Conceſſion, Submiſſion and Condeſcenſion of thoſe <hi>Exem<g ref="char:EOLhyphen"/>plary</hi> Chriſtians manifeſted in their moſt af<g ref="char:EOLhyphen"/>fectionate and encouraging <hi>Attendance and Aſ<g ref="char:EOLhyphen"/>ſiſtance</hi> afforded to the <hi>Apoſtle,</hi> all along his way through the City, and until he went A<g ref="char:EOLhyphen"/>board the Ship <hi>[They all brought us on our way, with Wives and Children, till we were out of the City.]</hi> Thus,</p>
+            <p>¶ When our Brethren ſee their Call clear, to adventure upon any hazardous Deſigns for the Goſpel; 'Tis but a <hi>Chriſtian</hi> Duty to <hi>fur<g ref="char:EOLhyphen"/>ther</hi> them, and help them, in the <hi>beſt way we can:</hi> Yea, ſuppoſe ſome particular Enterprizes, upon which they are reſolvedly, and by Ad<g ref="char:EOLhyphen"/>viſe of many, bound forth, and their Remo<g ref="char:EOLhyphen"/>vals, on the account thereof, may not be, at the preſent, perfectly in all points agreeable to the opinion and inclination even of ſome of their Brethren that have the <hi>Spirit</hi> of <hi>God;</hi> yet
+<pb n="10" facs="tcp:46661:6"/> 
+               <hi>All</hi> that have the <hi>Spirit</hi> of <hi>God,</hi> Men, Women and Children, will, and ought unanimouſly to ſtrengthen their Hearts and Hands in their <hi>God,</hi> &amp; to promote the <hi>Work</hi> of the <hi>Lord</hi> that is under their Hands.</p>
+            <p n="4">[4] It is illuſtrated and ſet forth by their <hi>Prayers</hi> at Parting. [<hi>And we kneeled down on the Shore, and Prayed,</hi> &amp;c.] <hi>Behold!</hi> the very place where, and Poſture wherein they made their Applications to the Great <hi>God</hi> of the Sea, and of the Dry Land, taken notice of by the <hi>Holy Ghoſt,</hi> and put upon Everlaſting Record<g ref="char:punc">▪</g> 
+               <hi>Verily, now,</hi> unto the Believer that Realizeth the <hi>Omnipreſence</hi> of the LORD, all the World is <hi>God's Houſe,</hi> and every Place as an Houſe of Prayer, a Temple for Spiritual Worſhip. And in every Place, if his Heart hath but a Sacrifice ready, he hath a Glorious Sanctify<g ref="char:EOLhyphen"/>ing <hi>Altar</hi> at Hand, and a <hi>GOD</hi> too, that hath reſpect to <hi>Him</hi> and to <hi>His Offering</hi> His hum<g ref="char:EOLunhyphen"/>ble Heart is not nice or ſqueamiſh at all about the place, and he can <hi>Kneel</hi> on the <hi>Sand,</hi> as well as <hi>Stand</hi> in the <hi>Temple,</hi> before the <hi>Lord</hi> his Maker. He knows, God looks for <hi>outward</hi> Profeſſion, as well as <hi>inward</hi> Subj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cti<g ref="char:EOLunhyphen"/>on, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Devotion; outward ſigns, as well a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inward ſenſe; the KNEE as well as th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> HEART; and by the Mercies of God, H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is ingaged to preſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt his <hi>Body,</hi> together with his <hi>Soul and Spirit,</hi> an Holy <hi>Sacrifice</hi> to the Lord. <hi>Rom.</hi> 12.1.</p>
+            <pb n="11" facs="tcp:46661:6"/>
+            <p>But from their Affectionate and Devout Prayers at their laſt Parting, we may gather his DOCTRINE.</p>
+            <div type="part">
+               <head>¶ That the very beſt thing that Diſciples of Chriſt, at taking leave one of ano<g ref="char:EOLhyphen"/>ther, can do one for another, is to turn their Caſes into Prayers.</head>
+               <p>I ſhall endeavour by the Lords Help, to demonſtrate this Doctrine from theſe three Conſiderations</p>
+               <p n="1">1. That 'tis the beſt we can do, in that it is moſt highly Lawful, and always poſſible and practicable.</p>
+               <p n="2">2 In that it is as Needful as Lawful.</p>
+               <p n="3">3. In that it is the moſt powerful and ſuc<g ref="char:EOLhyphen"/>ceſsful of any thing that we can do.</p>
+               <p>Firſt of all, It is moſt <hi>Lawful</hi> and <hi>Poſſi<g ref="char:EOLhyphen"/>ble.</hi> We have <hi>Precept, Promiſe</hi> and <hi>Example</hi> to convince us, that we may Lawfully as well as Poſſibly turn one anothers Caſes into Pray<g ref="char:EOLhyphen"/>ers. <hi>I</hi> exhort ſaith <hi>Paul,</hi> by the <hi>Spirit,</hi> 1 Tim 2.1. <hi>that Interceſſions be made for all men,</hi> [He intends not the Damned, nor ſuch as have Sinned againſt the Holy Ghoſt:] <hi>All men</hi> that Chriſt <hi>Offers</hi> His Blood and Benefits unto, <hi>we ought to offer</hi> our Prayers for them; ſee <hi>verſe</hi> 4, &amp; 8. But eſpecially, we may and muſt Pray, with and for the Brethren. <hi>Jam.</hi> 5.
+<pb n="12" facs="tcp:46661:7"/> 14, 16. <hi>Pray one for another.</hi> Although <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are unworthy of liberty to make Petition fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>our ſelves,</hi> yet the Grace of <hi>God</hi> allows, y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> injoyns us to put in requeſts for <hi>others</hi> alſo <hi>Moſes,</hi> and <hi>Samuel,</hi> and <hi>Daniel,</hi> may ſpeak good word for <hi>all Iſrael:</hi> &amp; the Debt of Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <hi>Jeruſalem</hi> is to be diſcharged in the lawf<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and current Coin of Prayers. Pſal. 122 6 <hi>Pray for the Peace of Jeruſalem,</hi> They ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proſper that <hi>Love Her.</hi> If we are for <hi>Exam<g ref="char:EOLunhyphen"/>ples;</hi> Look we to our Father <hi>Abraham,</hi> Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> firſt thoughts of <hi>Parting with</hi> his Son, are fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Prayer; <hi>Oh! that he may Live in Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sight.</hi> Gen. 17.18. <hi>Iſaac</hi> and <hi>Jacob</hi> part wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prayers. Gen. 28.3, 4, 5. So <hi>Iſrael</hi> and H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sons. Gen. 43.14. <hi>God Almighty give y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> mercy.</hi> So <hi>Job</hi> and his <hi>Friends</hi> part friendl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Prayers and Sacrifices offered up at thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Parting. Job 42 8, 9. And this was <hi>Pau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Custom.</hi> The Shore of <hi>Miletum</hi> was Sanct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fyed with his Knees and Tears, before th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Shore of <hi>Tyre</hi> was; The <hi>Elders</hi> of <hi>Epheſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> being Witneſſes; whom, at parting, as a choic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> part of his dear Charge, He Surrendred an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Commended, unto the Tuition of <hi>Heave<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Not expecting to ſee them or do for then any more, upon the <hi>Earth. Acts</hi> 20.32, 36 38. But <hi>Our Lord Jeſus is</hi> an Example with<g ref="char:EOLunhyphen"/>out Exception: And we have His <hi>Farewe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Prayer</hi> in the 17th Chap. of <hi>John</hi> as well a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:46661:7"/> His <hi>Farewell Sermon</hi> in the foregoing <hi>Chapters;</hi> Moreover, unto the <hi>Warranty</hi> of His own <hi>Pattern</hi> and <hi>Precept</hi> He hath graciouſly added <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he further <hi>Encouragements</hi> of His <hi>Promiſes,</hi> That He will even Pardon our Sins to us in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſwer to our Prayers one for another, 1 <hi>John</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.16. Yea, that if we joyn together in deſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing and requeſting of Him, any thing what<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oever, that it ſhall be done for us by <hi>His Fa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her</hi> which is in Heaven, <hi>Mat.</hi> 18.19, 20.</p>
+               <p>Thus we have proved, that this Way is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighly warrantable; and very Poſſible and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>racticable alſo; for <hi>Ab Eſse ad Poſse, valet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onſequentia,</hi> That that hath <hi>actually</hi> been one, is <hi>poſſible</hi> to be done; <hi>Coelius</hi> [lib. 20. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap. 25] Relates, that when <hi>Themiſtocles,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon a ſevere demand of Moneys from the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nhabitants of <hi>Andrios,</hi> told them that he brought. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo Gods with him unto them, <hi>viz.</hi> Perſuaſion <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Force: They replied, that they had two <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat Gods among themſelves, that hindred <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, to wit, Poverty, and Impoſſibility. But <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to the caſe in hand, the Saints are delivered <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om them both. But 'tis the <hi>beſt</hi> we can do, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or (1.) 'Tis <hi>All</hi> that we can do, many <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes (2) It may <hi>Always</hi> be done. 'Tis (1) Only, (2.) Conſtantly Poſſible. True Chriſtians, Diſciples, do belong to <hi>Chriſt;</hi> Now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad they not the <hi>Spirit</hi> of <hi>Chriſt,</hi> they were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one of <hi>His.</hi> Rom. 8.9. They have there<g ref="char:EOLhyphen"/>fore
+<pb n="14" facs="tcp:46661:8"/> 
+                  <hi>His Spirit,</hi> and <hi>He</hi> teacheth and helpeth them to Pray, <hi>Rom.</hi> 8.15, 26. And there is no <hi>Choſen Veſsel</hi> but upon his Converſion, it may be ſaid, <hi>Behold he prays.</hi> Acts 9.11. If <hi>Nathanael</hi> be an <hi>Iſraelite</hi> indeed, Chriſt hat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſeen him Kneeling under the Fig-tree. <hi>John</hi> 1.47, 48. And in Prayer <hi>Jacob</hi> gets the name of <hi>Iſrael.</hi> Gen. 32.28. This therefore <hi>they can do</hi> for their Brethren, they <hi>can</hi> Pray for them, to the LORD; and many times they <hi>can</hi> do nothing elſe for them; their Wit, Strength, Purſe, can't reach to Help them. The ſwel<g ref="char:EOLhyphen"/>ling Ocean may ſwallow up, or Enemies ſink them, or Sickneſs make an end of them long before we can hear of it, or reach them Help with our other Talents: But now, ſo long as they do but keep within the compaſs of THIS World, let them go as far as ever they can, they can never get out of the reach of Prayer. Would we have frequent Intelligence of their Welfare, we may in a New and Living way, draw near to <hi>Him,</hi> that is always near to <hi>them,</hi> and have it: <hi>Hannah's</hi> Son <hi>Sa<g ref="char:EOLunhyphen"/>muel</hi> was very <hi>Remote,</hi> when ſhe had her firſt ſatisfactory <hi>Intelligence</hi> concerning him, after which her face was no more ſad 1 <hi>Sam.</hi> 1 11, 17, 18. Nor was that the only caſe where<g ref="char:EOLhyphen"/>in Prayer hath condeſcended to become an <hi>Informer.</hi> Many Holy men of God in late<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Times, and ſome of them in <hi>New-England</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have obtained upon their Knees, happy
+<pb n="15" facs="tcp:46661:8"/> 
+                  <hi>Tidings</hi> from Remote Countries, and ſtrange <hi>Aſsurances</hi> of things to come. They perceiv<g ref="char:EOLhyphen"/>ed well the Information, beholding no Infor<g ref="char:EOLhyphen"/>mer, but Prayer in Faith. King <hi>Edward</hi> the Sixth asking news concerning one, that he highly Reſpected, was told, that there was no hope of his Life; but he inſtantly replied, that he was well aſſured he would recover, for he had that morning begg'd his Life of <hi>God:</hi> and he recovered accordingly. <hi>Daniel</hi> indeed had ſwift Information from an <hi>Angel,</hi> but it was obtained by <hi>Prayer.</hi> Dan 9.21, 22. Are ſome of our dear Brethren Removing to a great and wide Diſtance from us, of many hundreds of miles; yet I do not ſee what ſhould hinder, but that, if the fault be not our own, we and they may daily meet at the ſame Throne of Grace, and interchange ſome com<g ref="char:EOLhyphen"/>fortable Intelligence. Why ſhould we not truſt <hi>Faith in Prayer,</hi> when it hath been <hi>making Friends</hi> with <hi>Gods Name and Pro<g ref="char:EOLhyphen"/>miſe</hi> for Information? [<hi>Luk</hi> 16.7, 8] What though the Holy SPIRIT do more rarely afford the ſtrong <hi>Pleadings</hi> of Faith, &amp; mighty <hi>Aſsurances</hi> of particular Audience, as to outward Specialties of Perſons and Caſes, (notwithſtanding 'tis not Enthyſiaſtical to ſay, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the LORD is not wont, powerfully to bear in ſuch perſuaſions of Audience af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er ſtrong Cries, where he means to deny the Re<g ref="char:EOLhyphen"/>queſt,)
+<pb n="16" facs="tcp:46661:9"/> yet could we not double the Cape o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Good Hope,</hi> although they were beyond <hi>Hercu<g ref="char:EOLhyphen"/>les Pillars?</hi> And when the <hi>Wings</hi> of Faith &amp; Prayer have mounted our Souls to the top o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>Promontory</hi> of Sacred and Sureſt Proſpect, I mean the <hi>Promiſe,</hi> without doubt, the <hi>Eye o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Hope,</hi> will have a mighty advantage for the making of its moſt unaſhaming and moſt com<g ref="char:EOLhyphen"/>fortable <hi>Obſervations.</hi> Truly, if the means uſed, have a kindly operation, 'tis a <hi>promiſing ſign,</hi> to a ſick Patient. And if the <hi>Decree</hi> hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> joyned fervent <hi>Prayers</hi> and gracious <hi>Anſwer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> together, as the appointed <hi>means</hi> to the ap<g ref="char:EOLhyphen"/>pointed and deſired <hi>End,</hi> woe be to that Un<g ref="char:EOLhyphen"/>belief, that ſhall put them aſunder. <hi>I</hi> remem<g ref="char:EOLhyphen"/>ber, when (Attending on the <hi>Colledge</hi>) I had been abſent long from my neareſt Relations, That HONORABLE PERSON, (with whom I Sojourned divers years, &amp; from whom I my ſelf, [as well as others, alike devoted to, and in Education for the Service of the Sanct<g ref="char:EOLunhyphen"/>uary] received much of the kindneſs of GOD, which the LORD of His Grace, reward with <hi>Everlaſting Kindneſs;</hi>) He was pleaſed to ask me, whether my Friends at Home were in good Health or no? And when I anſwered, that I could not tell; he ſeemed to wonder at it, inquiring whether I had not, that morning been fervent in Prayers of Faith on their be<g ref="char:EOLhyphen"/>half: ſignifying further, that although other
+<pb n="17" facs="tcp:46661:9"/> ways of Intelligence were ſhut up, yet ſome comfortable ſatisfaction concerning them, might be obtained in ſuch a way; Oh! may we <hi>All</hi> now prove the Experiment by that Excel<g ref="char:EOLhyphen"/>lent man of Prayer, ſuggeſted ſeaſonably unto <hi>One!</hi> We ſhall neither miſtake the <hi>Paradox,</hi> nor miſs of the Conſolation: May our Spiri<g ref="char:EOLhyphen"/>tual Experience, be but the <hi>Interpreter.</hi> This is indeed <hi>conſiderable,</hi> but this is not <hi>All;</hi> For <hi>we</hi> may Save <hi>their</hi> Lives, and Aſſiſt their Glo<g ref="char:EOLhyphen"/>rious Deſign, by our Prayers on their behalf: <hi>Luther</hi> ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke it by Experience, <hi>Eſt quaedam Praecum Omnipotentia:</hi> Nothing is too hard for the Prayer of Faith: <hi>Jobs</hi> Prayers were able to break the Ice, to clear the Paſſage for his three Friends: <hi>Job</hi> 42.1 — 8. Who can tell or think how much Good that man may do, for his Abſent Friend, that is himſelf an honeſt <hi>Favourite</hi> with an Earthly <hi>Prince,</hi> and that is unweariedly improving all Opportuni<g ref="char:EOLhyphen"/>tles for his Friends advantage? <hi>Brethren!</hi> we alſo may help our Brethren, if we beſtir our ſelves to take hold on <hi>God</hi> for them in this way of Prayer. And as often 'tis the <hi>only</hi> thing, ſo always, it is the moſt <hi>constant</hi> thing that <hi>we can do,</hi> one for another: If other help may ſeldom reach them, (yet by the Aſſiſt<g ref="char:EOLhyphen"/>ance of the <hi>Spirit of God</hi>) we may afford them the <hi>Help of Prayer</hi> every day, and often in a Day. Thus did <hi>Paul</hi> to the Saints in
+<pb n="18" facs="tcp:46661:10"/> 
+                  <hi>Rome.</hi> Rom. 1.9. <hi>God is my witneſs whom <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Serve in the Goſpel of His Son, with my ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Spirit, that without ceaſing I make mention o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you always in my prayers;</hi> And thus alſo t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Philemon,</hi> Phil verſe 4 <hi>I thank my GOD, ma<g ref="char:EOLunhyphen"/>king mention of thee a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ways in my prayers:</hi> An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I verily believe that thoſe Holy Perſons foun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the benefit of <hi>Pauls</hi> Prayers every Day. Thu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 'tis <hi>Beſt,</hi> becauſe moſt <hi>Lawful</hi> and <hi>Poſſible.</hi>
+               </p>
+               <p>
+                  <hi>Secondly:</hi> Becauſe it is as <hi>Needful</hi> a <hi>Lawful,</hi> that Parting or Parted Diſciple ſhould turn their ſeveral Caſes into Prayer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Such as ſtay at Home have Need to Pray <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Them that go abroad: Yea, a nec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſity l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et on them; and Wo unto Them if they d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it not: They cannot Prove the <hi>Sincerity</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their <hi>Obedience</hi> to God, or <hi>Love</hi> to the Saints or obtain any comfor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ble Token and <hi>Evidenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> of their <hi>own</hi> future <hi>Proſperi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> that do not Pray for their Brethren, who make a part of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Church;</hi> in Praying for whom, they <hi>Pray f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Peace of Jeruſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m, Pſal</hi> 122 6. And ſup<g ref="char:EOLunhyphen"/>poſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, their Br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſhould miſcarry throug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the weakneſs or for the want of their Pray<g ref="char:EOLunhyphen"/>ers, what <hi>horrib e Gui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> will un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>voidably b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> incurred. And they need O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prayers, in that, The Divine Order ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Link't Men together, as that the one (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> He<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ven) muſt be beholden to (becauſe, d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pendent
+<pb n="19" facs="tcp:46661:10"/> on) the other, for Preſervation: None but a <hi>Cain</hi> will make it a Queſtion, <hi>Am I my Brothers Keeper?</hi> How often doth the Lord permit the <hi>Devil</hi> to execute the <hi>Curſes</hi> of <hi>Witches</hi> on their Neighbours, although, bleſſed be GOD, <hi>Balaam</hi> cannot Curſe, nor yet <hi>Satan</hi> Execute when and where they ſometimes could rejoyce to do it. <hi>Micah</hi> 6 5. How often doth the Lord fulfill the <hi>Bleſſings</hi> of the <hi>Saints? They that are bleſsed of the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dly man, ſhall inhe<g ref="char:EOLhyphen"/>rit the Earth:</hi> Pſal. 37.22. 'Tis Promiſed, that, One day, the Saints ſhall be inthroned as Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ ſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s with the Lord J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus Chriſt, to Judge the World; And verily He ſeems loath to do any great thing without their Suff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rage now: They Bleſs and then He Bleſſeth <hi>Jobs</hi> Friends muſt be beholding to Jobs Prayers for their acc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptance with the Lord, as hath been ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id. And <hi>Abimeleck</hi> to <hi>Abraham's,</hi> Gen. 20.7. <hi>[He ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Pray for the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and thou ſhalt Live]</hi> And <hi>Peter</hi> to the <hi>Churches</hi> Pray<g ref="char:EOLhyphen"/>ers <hi>Acts</hi> 12 5, 12. And <hi>Paul</hi> to <hi>Philemon's</hi> Prayers, Philem. v. 22. And to the <hi>Prayers</hi> of <hi>Others.</hi>
+               </p>
+               <p>And the <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nedictory Op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ions</hi> of ſuch <hi>Saints</hi> as ſtand near the Gate of Heaven, have been allow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <hi>by the Lord,</hi> to have a more peculiar hand in the Diſtribution of Divine B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fits. As <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ijah's</hi> to <hi>E <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſha</hi> 2 King 2 9. <hi>E <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſha's</hi> to King <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> 2 King. 13.17. So <hi>Iſaac's</hi> to
+<pb n="20" facs="tcp:46661:11"/> 
+                  <hi>Jacob</hi> of Old; Gen. 28. 1, 3. <hi>Jacobs</hi> to His <hi>Sons,</hi> Gen. 49.1. And <hi>Moſes's</hi> to <hi>Iſrael</hi> Deut. 33.1. Yet <hi>Our own Single</hi> Prayers for our ſelves, have not ſo great and extenſive an Effi<g ref="char:EOLhyphen"/>cacy as the Prayers of <hi>Many others</hi> for us may have, in which <hi>more Grace</hi> is Exerciſed, by <hi>more Subjects,</hi> the <hi>Lord</hi> being alſo <hi>more Glorifyed</hi> when after the <hi>Prayers,</hi> He receives the <hi>Praiſes,</hi> not of <hi>One</hi> but of <hi>Many</hi> Saints, for the <hi>Mercys</hi> which He hath beſtowed.</p>
+               <p>But more particularly to accommodate this <hi>Article</hi> to the <hi>Caſe</hi> of our now <hi>Parting Brethren.</hi> It will evidently appear that <hi>Our joynt Prayers</hi> are <hi>Needfull</hi> for them, if we duly weigh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe following <hi>Conſiderations.</hi> As Namely:</p>
+               <p n="1">[1.] Our Prayers are Needfull to them, in regard of Thoſe by Whom they are ſent forth upon the Work of the Lord, and Whom they are departing from: They are of Us: We and They are of <hi>One</hi> People of <hi>God;</hi> They and we are likely to ſtand and fall to<g ref="char:EOLhyphen"/>gether. Now, One Achan may trouble all Iſrael. A man not long ſince in a Neigh<g ref="char:EOLhyphen"/>bouring Colony had one Leg cut off: and when, in another Room, the <hi>Chirurgeons</hi> ſlaſhed the Leg that was cut off, to make a more perfect diſcovery, The poor man felt the Pains of the Gaſhes, and Roared dreadfully
+<pb n="21" facs="tcp:46661:11"/> for Anguiſh, until they left off: Even ſo, If it ſhould fare ill with them, we ſhould Cry out, and if we ſhould <hi>Deſert</hi> them an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Sin</hi> in <hi>Ceaſing to Pray for them,</hi> they woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feel it bitterly. Brethren! Our Sins, ar their Danger, and our Holy Devotion, may concur and conduce, not a little to their Safety and Proſperity. It may fare with the Hoſte <hi>Abroad,</hi> even as the People that ſend them do demean themſelves at <hi>Home:</hi> Hence the Lord gives a ſtrict Caution, Deut. 23.9. <hi>When thine Hoſt goeth forth—then keep thee from every Wicked thing</hi> Some Parents have had ſo ſtrange a Sympathy with their Children, many Scores yea Hundreds of Miles diſtant from them; and ſome Veruous Wives, with their Husbands; as that no conſiderable danger or diſtreſs hath happ'ned to their Husbands or Children, but they have been diſtreſſed and in Agonys themſelves, with a ſtrange fear on their Spirits, concerning their Relations, that were in diſtreſs at the ſame Moments of Time. Some ſuch Inſtances are recorded in faithful Hiſtory, and more are ready at hand to be produced. Even ſo our Prayerleſsneſs, as it will Indanger our ſelves <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd State, ſo we may fear, they, that may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Abroad, may Feel it and Rue it.</p>
+               <p>They therefore have no ſmall <hi>Need,</hi> that we duly ſeek the Lord on their behalf. There
+<pb n="22" facs="tcp:46661:12"/> were ſome of whom the Apoſtle <hi>John</hi> Writes, 1 Joh. 2.19. <hi>They went out from us, but they were not of us:</hi> But of theſe our Beloved Brethren, it will rather be ſpoken, They were of us and went, as they were <hi>ſent forth</hi> by us, 2 Cor. 8.23 All <hi>Extraordinary Calling</hi> unto the Service of the Kingdom of <hi>Chriſt,</hi> was not ſo <hi>immediately from God,</hi> as ever, to exclude the <hi>Miniſtry of Man;</hi> as appears in the Hiſtory o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Calling of <hi>Elizeus</hi> and <hi>Matthias. Wickliff, Luther, Zwinglius,</hi> and other Reformers an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reſtorers of the <hi>Church,</hi> were neither <hi>Prophets, Apoſtles,</hi> nor <hi>Evangeliſts,</hi> to ſpeak properly<g ref="char:punc">▪</g> but having received ſingular Gifts from <hi>God,</hi> ſuch as the <hi>Lord</hi> ſaw His <hi>Church</hi> ſtood i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> need of, and living in the time when all goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Order was diſturbed and ſo being <hi>Neceſſi<g ref="char:EOLunhyphen"/>tated</hi> and <hi>Spirited,</hi> to act ſome things beſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and beyond the <hi>Common Order;</hi> their Action and Succeſſes ſomewhat, though but a littl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reſembling what was performed by <hi>Prophet</hi> and <hi>Apoſtles</hi> of old; therefore we find them by ſome Godly Writers <hi>Metonimically</hi> calle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Extraordinary and Apoſtolical <hi>Miniſters</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>Church</hi> of <hi>God:</hi> Truly they had tom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Uncommon <hi>Seals</hi> ſet unto their <hi>Miniſtry,</hi> bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neither were <hi>Miracles</hi> neceſſary to attend <hi>The<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ministry,</hi> nor yet the Miniſtry of all ſuch o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> old as had a Proper Extraordinary Calling, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Examples of many <hi>Old Teſtament Prophets</hi>
+                  <pb n="23" facs="tcp:46661:12"/> and of <hi>John the Baptiſt</hi> do ſhew. And al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough the Church Militant, is now without the Apoſtles Cares to ſpread and Propagate the <hi>Goſpel,</hi> all over the World; Yet it is not the will of <hi>Christ,</hi> that that <hi>Work</hi> ſhould <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all to the Ground: But as there is an Ordi<g ref="char:EOLhyphen"/>nary Miniſtry, which hath its whole <hi>Direction</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom the will of <hi>God</hi> revealed in the Scrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ures, and from thoſe <hi>Media</hi> which <hi>God</hi> hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppointed in His Church, and deriving <hi>Power</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f adminiſtring Divine things alone immedi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tely from <hi>God,</hi> though their Call is <hi>by man,</hi> from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Lord,</hi> who alſo (not without good <hi>Education</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y men for the moſt part) hath qualify'd <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd fitted them for their <hi>Calling:</hi> I ſay, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here is ſuch a <hi>Miniſtry</hi> for the building up of <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <hi>Church Catholick</hi> in the ſeveral ſimilary Viſible particular Parts of it, <hi>viz.</hi> Particular <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ongregational Churches,</hi> ſo there is an Incum<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ency of Duty on this <hi>Miniſtry</hi> and theſe <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hurches</hi> to expend and beſtow both Pray<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs and Pains for the ſtretching forth the Curtains of their increated <hi>Solomon,</hi> and the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athering of others, even of <hi>Strangers,</hi> into the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eep fold of <hi>Jeſus Chriſt,</hi> and Settlement of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſpel Order</hi> and <hi>Ordinances</hi> among them. It <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as meet that firſt the <hi>Law</hi> ſhould go forth of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion,</hi> and the Word of the Lord from <hi>Jeru<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lem,</hi> by the Miniſtry of the Apoſtles; but <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>erward the Gentiles muſt Call one another,
+<pb n="24" facs="tcp:46661:13"/> and ſpread it from Nation to Nation; <hi>Iſai</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2— 5 and from Neighbourhood to Neigh<g ref="char:EOLhyphen"/>bourhood. As Leaven is firſt laid in, and then it diffuſeth, and ſpreads it ſelf gradually, <hi>Mat.</hi> 13.33. And as from one grain of Muſtard-ſeed, a whole Field of it is propaga<g ref="char:EOLhyphen"/>ted at length: So 'tis as to the Glorious <hi>Cit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of God;</hi> time was, when it had but one Houſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in it, but <hi>Zerubbabel</hi> holds the <hi>Plummet</hi> till it b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fully <hi>Built</hi> to the very Suburbs: The Wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is carried on by Him that gives Gifts unt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> men, and Paſtors and Teachers to build up the Body of Chriſt, till we all come, <hi>&amp;c.</hi> Eph 4 10— 13. And the Word is to be committe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to faithful men, who are to tranſmit it further 2 <hi>Tim.</hi> 2.2. Thus, the Temple is often bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> even in Troublous Times; <hi>Dan.</hi> 9 25. and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Church begin to neglect to diſperſe the Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pel abroad, in comes Perſecution, &amp; diſperſet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Church, to the wonderful Increaſe of B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lievers in the World. <hi>Acts</hi> 8.4, 5, 6. <hi>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Candle may ſerve to light up many more and <hi>One Church</hi> may lend materials to the fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>niſhing of <hi>Another</hi> Cant. 8.8, 9, 10. T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Candleſtick that holds the Candle muſt n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Monopolize its light and influence: Our L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>banon is not for our ſelves only, but to enclo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> others with Doors of Cedar. Our Mines Treaſures muſt ſtand open to our <hi>Solomon</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Build more Palaces of Silver with. T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:46661:13"/> Church that is already Organ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with <hi>Chriſt,</hi> of <hi>Common Council, Care</hi> and <hi>Endea<g ref="char:EOLhyphen"/>vour,</hi> for the Communication of what may tend to the New Up-ſpringing &amp; Maturity of Siſter <hi>Churches.</hi> Yea every Believer hath ſome degree of a Catholick Spirit in him, wiſhing that <hi>all the World,</hi> and ſtriving to the utmoſt of his Influence, that <hi>all that are near him,</hi> may become <hi>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>together ſuch as he is [ex<g ref="char:EOLhyphen"/>cept his Bonds,] Acts</hi> 26 29.</p>
+               <p>And, as for <hi>New-England,</hi> Let our ancient <hi>Charter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſpeak, what our Fathers Profeſſed Intention a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Deſign was in coming hither, <hi>
+                     <g ref="char:V">Ʋ</g>iz</hi> Not only purely and peaceably to <hi>Enjoy,</hi> but alſo generouſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> chari<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ably to <hi>Spread</hi> and <hi>Propagate</hi> the Goſpel of <hi>Jeſus Chriſt,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o direct the blind Pagans in the way to bleſſedneſs for ever. Some that have ſeen our firſt Times, can Remember, how much the Indian Work was then in the <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi> and <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers</hi> of the Saints, and how it <hi>Flouriſhed,</hi> and how many of thoſe <hi>American Converts</hi> have had a Triumphant Paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge into <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ory;</hi> but ſince that Work is grown out of our <hi>Hearts</hi> and <hi>Prayers,</hi> 'tis dolefull to obſerve what dark and deadly S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mptoms, in moſt places, do app<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar upon the face thereof. When <hi>Gods Times</hi> to favour a People <hi>are come: His <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aints do greatly pitty their Stones and Duſt,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſal. 102.13, 14. But when the Lords
+<pb n="26" facs="tcp:46661:14"/> Rem<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bran<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs <hi>hold their peace,</hi> The Lord Himſelf alſo <hi>holds His Hand,</hi> as if He had for<g ref="char:EOLhyphen"/>gotten His Work; for, His ſtated Order, He will obſerve, and ſtands upon His Honour and Glory, of being ſought unto by the Houſe of Iſrael to do it for them, <hi>Ezek.</hi> 36.37. The Lord recover and revive that work, and our Prayers for it, for His Holy Name ſake. <hi>Amen.</hi> But to proceed, were not our Fathers a Ge<g ref="char:EOLhyphen"/>neration of <hi>Witneſses</hi> and <hi>Confeſsors</hi> of the <hi>Lord Jeſus Chriſt?</hi> Did not <hi>God the Father of Christ</hi> put His <hi>Son</hi> into Poſſeſſion of theſe <hi>Ends of the Earth, by livery and ſeizin,</hi> when He caſt out many of the <hi>Heathen,</hi> and planted <hi>His Peo<g ref="char:EOLunhyphen"/>ple here, in their ſtead?</hi> And were not theſe Churches of <hi>Christ Jeſus</hi> to be <hi>Pillars for th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Truth,</hi> 1 <hi>Tim.</hi> 2.15? When <hi>Iſrael</hi> Apoſtatiz<g ref="char:EOLunhyphen"/>ed to Idolatry, many of <hi>Aſher,</hi> forſook their Inheritances, and came and dwelt in <hi>Judah</hi> for <hi>Religions ſake,</hi> and when <hi>Prophecy</hi> was reſtored to <hi>Iſrael,</hi> behold a <hi>Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pheteſs</hi> of the Daughter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Phanuel</hi> of that <hi>Tribe:</hi> Luk. 2.36. And are the Days near for the Illumination of the Dark Parts of the World? May we not humbly Hope, that <hi>New-England</hi> (though <hi>Sinful</hi>) ſhall have an hand therein <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> What if the <hi>Lord</hi> will have His <hi>Word</hi> go forth along into this <hi>America,</hi> from His <hi>Jeruſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em here?</hi> and that too, whileſt our Sins and Hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Judgments are upon us, that ſo no fleſh ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="27" facs="tcp:46661:14"/> glory in His ſight? And if the <hi>Lord</hi> have de<g ref="char:EOLhyphen"/>ſigned theſe <hi>Churches</hi> unto ſuch work; Suppoſe, we ſhould be ſlack &amp; negligent herein, Quere, whether God may not find out ways to ſcatter and diſperſe us abroad, and compel us to At<g ref="char:EOLhyphen"/>tend it? <hi>Acts</hi> 8.4-6</p>
+               <p>And I will add this further, Hath the <hi>Lord</hi> made the <hi>Offers</hi> of the <hi>Goſpel</hi> by the <hi>Miniſters</hi> of theſe <hi>Churches, Acceptable</hi> unto any Conſi<g ref="char:EOLhyphen"/>derable Places [ſometimes <hi>deeply prejudiced</hi> a<g ref="char:EOLhyphen"/>gainſt us and our way of Worſhipping the <hi>Lord,</hi> by occaſion of Auncient Severities] and opened a Door unto us, to ſhew them the Kindneſs of God, for their Everlaſting Good? And hath the Lord In<g ref="char:EOLhyphen"/>clined ſome other Places more remote, to ſend <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ither for Spiritual Help, rather than to other Lands? And hath the Lord Inclined the Hearts of ſundry of our Dear Brethren, both <hi>Miniſters</hi> and other <hi>Chriſtians,</hi> to accept of <hi>Miſſion</hi> unto ſuch <hi>Service;</hi> and are they now going forth, [One of them having been lately Separated to the <hi>Paſtoral Office,</hi> over a <hi>Little Church,</hi> with <hi>Faſting</hi> and <hi>Prayer,</hi> by the <hi>Reve<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>end Elders</hi> and <hi>Meſsengers</hi> of divers of our <hi>Churches</hi>] And ſhall we not <hi>Kneel</hi> for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem before the Lord? What we All owe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o God and to His Kingdom, we have Sepa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ated them to diſcharge it for us, and they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re <hi>New Englands Offering to the LORD JE<g ref="char:EOLhyphen"/>S<g ref="char:V">Ʋ</g>S
+<pb n="28" facs="tcp:46661:15"/> CHRIST,</hi> for the <hi>Service</hi> of His <hi>King<g ref="char:EOLhyphen"/>dom:</hi> and how ſhall we Sanctifie them other<g ref="char:EOLhyphen"/>wiſe, than by <hi>Prayer?</hi> 1 Tim. 4.5. And are we not more peculiarly obliged to be much in fervent Supplications for them, than the Churches of God in other Countries are, ſince they are peculiarly <hi>Ours,</hi> and <hi>our Offering</hi> to the LORD? Do we not yet know that we ſtand but in ill Terms with the Lord our God, and that an Offering will not be eaſily Accepted from declined and pro<g ref="char:EOLhyphen"/>voking <hi>New-England?</hi> And have we not th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> greater need to uſe what humble Importunity we can? <hi>Paul</hi> deſires the Brethren to pray for Him, that his Charitable <hi>Offerings an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Services might be accepted of the Saints; Rom</hi> 15 31. But verily we have need alſo to pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hard, that our poor Oblations may be ac<g ref="char:EOLhyphen"/>cepted of the Lord: For if our hearts be not much in, and our Prayers with our Gratula<g ref="char:EOLhyphen"/>tory Sacrifice to the Lord, how can we ex<g ref="char:EOLhyphen"/>pect, that he ſhould regard it at all? <hi>Qui frigide orat, docet negare.</hi> Our dear Brethren, now going forth from us, have a greater depen<g ref="char:EOLhyphen"/>dance (under Chriſt) upon our poor Pray<g ref="char:EOLunhyphen"/>ers for them, than we can e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſily apprehend for, if we deſert them, conſidering their relati<g ref="char:EOLunhyphen"/>on to us, they may fear, that the Lord wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alſo; But His Ways and His Thoughts ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> high above ours, as the Heavens are abov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:46661:15"/> the Earth, which is, through Chriſt Jeſus, our only hope and ſtay, when we ſee the Glory of His Paternal Holineſs and Severity, and our own Vileneſs Well, I will be humbly bold to ſay, that a <hi>Price</hi> is this day put into our <hi>Hands,</hi> may we have <hi>Hearts</hi> to improve it. 'Tis too ſadly evident, to be conceal'd or diſſembled, that we have loſt much of our wonted frequency and ancient intimacy with the Lord, and that a lamentable eſtrangedneſs of Spirit is grown between the <hi>Lord</hi> and <hi>New-England;</hi> Now, as wiſe Courti<g ref="char:EOLunhyphen"/>ers when under a Cloud, ſeek, and make much of ſome <hi>Ingratiating Errand</hi> into the preſence of their <hi>Prince,</hi> eſpecially ſome matter of migh<g ref="char:EOLhyphen"/>ty Conſequence to the Realm and State; So were we wiſe Chriſtians, we ſhould prize highly any good <hi>Errand,</hi> into the Preſence of the <hi>Lord,</hi> eſpecially ſuch an <hi>Important Errand</hi> as this, wherein the Great Affairs of His <hi>King<g ref="char:EOLhyphen"/>dom</hi> and <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ory</hi> and of the <hi>Souls of men</hi> are con<g ref="char:EOLhyphen"/>cerned May we obtain ſuch Grace, that the <hi>Lord,</hi> may ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e our hearts once purely and throughly concerned, and warmly engaged a<g ref="char:EOLhyphen"/>bout ſuch things as are chiefly in the Lords Eye and Heart; as hereby, Religion may b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gin to be Revived within us, ſo a fair way will be paved for us, by His Infinite Grace, for our Returning into His Favour and Ac<g ref="char:EOLhyphen"/>quaintance again. Our <hi>Brethren</hi> then, that
+<pb n="30" facs="tcp:46661:16"/> have ſo earneſtly deſired our <hi>Prayers</hi> this Day, might uſe the words of the <hi>Apoſtle</hi> in another caſe, and ſay, We ask <hi>Your Prayers,</hi> not only, or not ſo much, that we deſire and need the Gift, and the Help thereof, but, that FRUIT may abound unto YOUR ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ount, both now, and in the day of <hi>Chriſt.</hi> Your Applications to the Throne of Grace for us, ſhall further <hi>Your Own We<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>come</hi> at that Throne, as well as <hi>Ours;</hi> and moreover, whatſoever we ſhall obtain and prevail to do, by the force of your Prayers (next under CHRIST) and by the force of <hi>New Englands Prayers</hi> 'twill be accepted as if <hi>New-England</hi> and you had done it your ſelves.</p>
+               <p n="2">[2] As our Prayers are needful for them in Regard of <hi>Our ſelves</hi> that ſend them, ſo alſo in Regard of <hi>Themſelves</hi> that are ſent; <hi>The Places</hi> they are ſent unto, <hi>The Work</hi> they are ſent upon, and the great <hi>dependance</hi> that will be upon their <hi>Succeſs</hi> therein.</p>
+               <p>As for ſome of the <hi>Plantations</hi> which they are ſent unto, Is not their <hi>Mode of Settlement</hi> an high <hi>Provcoation to the Lord?</hi> Who can juſtify their laying out of, and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>parate Settling upon ſuch large, Scattered, diſtant Plantations, and Farms, as <hi>Bid Defiance</hi> unto Civil Cohabitation in convenient Vicinity, and ſo not only to <hi>Religion</hi> and the Worſhip of God, not ſo to
+<pb n="31" facs="tcp:46661:16"/> be attended and maintained, but even to <hi>Civility it ſelf?</hi> And who then can much wonder if many of the <hi>Riſing Generation</hi> ſhould grow <hi>Atheiſtical,</hi> Ignorant, <hi>Erroneous,</hi> Profane, <hi>Profligate,</hi> and Abominable, having no ſuch <hi>Publick Spiritual Means</hi> to reſtrain them from Vice, and to have promoted their Converſion, as in other Places is Enjoyed? Is not <hi>World<g ref="char:EOLhyphen"/>lineſs</hi> a <hi>Reigning Sin</hi> among them? Now the <hi>Friendſhip of the World is Enmity to God; and he that Loveth the World, the Love of the Father is not in him,</hi> 1 Joh. 2.15. And how many are grown <hi>Old</hi> in a cuſtom of Sinning? and can they change? Can they learn to do well, who are accuſtomed to do evil? And how inveterate have ſome been in their Prejudices againſt even Godlineſs it ſelf, becauſe of the Vices of ſome, that have made a Profeſſion thereof! As if <hi>Chriſt and His Family</hi> were to be abhorred becauſe there was one Horrible <hi>Judas</hi> there. <hi>Such Great Sins</hi> will not be Pardoned, without <hi>Great Suit</hi> at the Throne of Grace. <hi>One,</hi> that was meditating in the Field in one of thoſe Places, was much ſurpriſed and aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted, when he ſuddenly met with a great Parcel of milk white Dry Bones, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Embleme of the Dead Souls that <hi>Ezekiel</hi> was Commanded to Prophecy over, that they might live. Verily their <hi>Spiritual Reſurrection</hi> will not be obtained without <hi>Prayer.</hi> The
+<pb n="32" facs="tcp:46661:17"/> Lord will be ſought to for the Life of ſuch Souls, <hi>Ezek.</hi> 36.26, 37. Yet at the Faith and Prayer of others for them, God can Par<g ref="char:EOLhyphen"/>don mighty Sins, <hi>Mat</hi> 9 2. And caſt out Monſtrous Devils and Luſts, that will not otherwiſe be ejected but by Faſting and Prayer, <hi>Mark</hi> 9.29. Oh! Can we endure to ſee the Deſtruction of ſo many <hi>Engliſh People,</hi> and not make an Out-cry of Prayer to the Lord on their behalf? [Eſther 8.6.]</p>
+               <p>And now that the <hi>Goſpel</hi> in the pure and powerful Diſpenſation of it, is advancing to them, and their <hi>Eternal State</hi> is put upon the <hi>Turning Point;</hi> What a Precipice of Infan<g ref="char:EOLhyphen"/>dous Ruine ſtand they upon; <hi>and how ſhall they eſcape if they neglect ſo great Salvation?</hi> and when <hi>the Lord</hi> once <hi>puts them thus upon the Wheel,</hi> (and God knows whether as to many of them, it may not be the laſt proba<g ref="char:EOLhyphen"/>tion time, that ever they ſhall have) <hi>our hearts</hi> ſhould <hi>tremble</hi> for them, leaſt that they be <hi>Marred</hi> in the hands of the <hi>Potter:</hi> and now that they are <hi>Brought to the Birth,</hi> why ſhould Precious Immortal Soul: periſh, in any part, for want of the Sacred Midwifery of Prayer! Do not ſome Fields among them promiſe well, and ſeem white already for the Harveſt; But then alſo our Duty remains upon us, Luk. 10.2. To Pray to the Lord of the Harveſt, <hi>&amp;c.</hi>
+               </p>
+               <pb n="33" facs="tcp:46661:17"/>
+               <p>Dares any man preſume to ſay or think, that he hath one ſpark of true Grace in his Heart, that can forbear to pray now?</p>
+               <p>Again, the weakneſs of theſe our Dear <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> that are Sent doth beſpeak our Prayers on their behalf. Though the Lord hath ſig<g ref="char:EOLhyphen"/>nally preſerved them from Spots, (Bleſſed be His Holy Name! yet <hi>Who can bring a clean thing out of an unclean?</hi> Have they not been born and bred in the very depth of the Apo<g ref="char:EOLhyphen"/>ſtacies of theſe Churches? However, it is with them perſonally, yet doth not <hi>Publick Guilt involve them</hi> as well as <hi>others?</hi> As for <hi>Satan</hi> (whoſe Kingdom they are ſent to de<g ref="char:EOLhyphen"/>ſtroy, in the Name of Chriſt) He will ſtand at theirs (as He did at <hi>Joſhua's</hi>) Right-hand, to reſiſt <hi>them:</hi> Not only with curſed <hi>Tempta<g ref="char:EOLhyphen"/>tions;</hi> but alſo with cruel <hi>Accuſations; May He but ſee them Cleathed with filthy Raiment be<g ref="char:EOLhyphen"/>fore the Angel:</hi> Now, <hi>If the Lord mark Iniqui<g ref="char:EOLhyphen"/>ty, they cannot ſtand:</hi> And oh! how much Faith and Holineſs do they and we want? The Babe wants of the Stature of Manhood, <hi>much more</hi> than He hath already atteined. So it is with the New Creature at firſt: Oh! How much is lacking in Faith, hope, love, zeal, purity, and what is wanting of Perfect<g ref="char:EOLhyphen"/>ion of <hi>Sanctification,</hi> is doubtleſs made up with Imperfection and <hi>Corruption:</hi> But they ought to be <hi>extraordinarily holy,</hi> abſtaining,
+<pb n="34" facs="tcp:46661:18"/> not from <hi>Evil</hi> only, but even from all <hi>appea<g ref="char:EOLhyphen"/>rance of Evil,</hi> that adventure upon ſuch <hi>Ex<g ref="char:EOLhyphen"/>traordinary Service,</hi> and moſt ſtrictly muſt they walk, that have ſuch and ſo many Eyes upon them, that will judge of our whole Re<g ref="char:EOLhyphen"/>ligion, wholly by their Converſations? If Sa<g ref="char:EOLhyphen"/>tan ſhould trip them (and he will be ſure to do the utmoſt that he ſhall be permitted to<g ref="char:EOLhyphen"/>wards it) what a ſcandal would ariſe to Re<g ref="char:EOLhyphen"/>ligion, what an incurable ruine to that Work under their hands! Say then uprightly, D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not they ſtand in need of Prayers? Again, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Devil bearing them ſuch a cruel ſpite: <hi>Though there be an open Door, yet they muſt ex<g ref="char:EOLhyphen"/>pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> many Adverſarie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> The many monſtrou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Militant Members of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atan Myſtical will be rallyed up againſt th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, if God reſtrain them not; and do not they need Prayers then, that muſt do well and bear ill, and muſt adventure all for Jeſus Chriſt? and ſo more than Fight with Beaſts at <hi>Epheſus.</hi> Beſides, they are young and in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xperienced, and in that reſpect have this principally to comfort them: <hi>Judg.</hi> 7.2, 4. That <hi>It may be they are not too many for God to work by.</hi> Prayers of Saints were moſt needful to the <hi>Apoſtles</hi> them<g ref="char:EOLhyphen"/>ſelves, much more unto Theſe <hi>Our Brethren:</hi> For,</p>
+               <p n="1">1. Then, the <hi>Spirit</hi> was more plentifully poured out, but leſs now.</p>
+               <p n="2">
+                  <pb n="35" facs="tcp:46661:18"/>2. They had <hi>Miracles</hi> to confirm their Of<g ref="char:EOLhyphen"/>fice and Doctrine, which are not ordinarily to be expected now. And</p>
+               <p n="3">3. Souls are as ſorely <hi>prejudiced, blinded,</hi> and <hi>hardened</hi> now, as ever in the Apoſtles Dayes: Do we indeed underſtand the <hi>Perils</hi> and <hi>Toils</hi> and <hi>Tryals</hi> that the <hi>Work</hi> will unavoi<g ref="char:EOLhyphen"/>dably expoſe them unto, that we do our part <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ingage them in, and can we find in our hearts to leave them in the lurch now, and ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in againſt the Lord, in ceaſing to pray for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem? God forbid it ſhould be ſo.</p>
+               <p>Thus we have ſeen that it is moſt needful. Conſider we in the <hi>laſt</hi> place, that 'tis the moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owerful and ſucceſsful thing that we can do <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or our Brethren, to put in daily for them at <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Throne of Mercy. When did the Lord <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay unto the Seed of <hi>Jacob,</hi> that they ſhould <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eek his Face in <hi>vain!</hi> Are not fervent Suppli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts ſuch Favourites, as cannot poſſibly miſcar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y in their well grounded Suits for Grace? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Joh.</hi> 5 14, 15 If King <hi>David</hi> ſtood ſo much upon His Honour, that He would not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecal His baniſhed (though his Heart was ſet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon it) until one of his moſt noble Peers, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id ſupplicate Him for it: Well may the Lord <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſo too; But God is of <hi>one mind:</hi> Can Prayer turn Him? Verily His invariable mind <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cree is, that His outward Works ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urn upon the Wheel of Prayer, <hi>Mat.</hi> 6.6.
+<pb n="36" facs="tcp:46661:19"/> and that our hearts and deſires within us ſhall bear the Counter part unto His Will and Deſigns without us, referring to what deſira<g ref="char:EOLhyphen"/>ble good ſhall come to paſs, and be wrought in the World. The Holy Spirit helps our infirmities, and teaches us to Pray, <hi>Rom.</hi> 8. The Lord therefore can no more be out of Love with Evangelical Prayer, than with His own Will and Work And if the <hi>Spirit</hi> helps our infirmities, Our infirmitie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (no more than <hi>El as</hi> his Paſſions) ſhall no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hinder the Succeſs of our Prayers, any more than the acceptance of our Perſons in Chriſt Jeſus. 'Though we have Droſs in our moſt golden Prayers, yet we have a curious and careful Refiner at the Altar of Incenſe into whoſe Golden Cenſer they muſt paſs, before they paſs unto the Father. We are Interc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſours, but not of Mediation, we are <hi>Prieſts</hi> unto <hi>God,</hi> yet (ſaith Judicious <hi>Ames,</hi>) not ſo much as Subordinate to <hi>Chriſt</hi> in <hi>His Prieſtly Office</hi> He offers, He preſents and pleads His ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Blood and M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rits in the holi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt of all; w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtand without, and deſire to receive His be<g ref="char:EOLunhyphen"/>nefits; we open our Mouths wide (by Hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Spirit) and ſtand in the capacity of Reciever<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whereas He ſtands alone in the high Qualit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a Mediatorial Procurer of Bleſſings. B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> how is the Grace and Bleſſing in the Ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Covenant moſt Free, when as it is not to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="37" facs="tcp:46661:19"/> attained without much Pains in Prayer? Yet what can be more free and eaſy than to Ask and Receive? How can we take in much Mercy, if we don't open our Mouths wide? If we open them wide, what doth God gain by it? If He fills them, Is it not of Grace? What is this mite of Duty, and Acknowledg<g ref="char:EOLhyphen"/>ment, to the Millions <hi>Per Annum,</hi> that it is re<g ref="char:EOLhyphen"/>payed withal? And whence have we this poor mite alſo? Doth not the ſame bountiful Hand that beſtows the conſequent Bleſſings, Create and Aſſiſt the antecedent Prayers for them? Is not Goſpel-Prayer a part of Salvation, and a good ſtep into it, making way for further ſteps and degrees of Salvation. Gods Decrees are Abſolute, His Gifts free and abſolute, without the <hi>Scientia Media,</hi> &amp; the moral conditionateing Terms on which the firſt Grace &amp; all Salvation ſome ſay is to be had, and without the won<g ref="char:EOLhyphen"/>der<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul Merits of Condignity and Supererroga<g ref="char:EOLhyphen"/>tion or of Congruity and the other <hi>Paradoxes</hi> of the <hi>Jeſuites.</hi> You will ſay then, wherein conſiſts the Efficacy of Prayer? Since if we do but what is duty to do, what thanks do we deſerve; and what Obligations in any wiſe can we lay the Lord under thereby? Yea in our beſt Prayers we come ſhort of our Duty? I <hi>Anſwer,</hi> In that, the Grace and Exerciſe alſo of Prayer in the up grown, is given in Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unction with other Mercys inſeparably, for
+<pb n="38" facs="tcp:46661:20"/> the Jewel of Salvation is ſet in the Gold-Ring of Prayer: <hi>He that calleth on the Name of the Lord ſhall be Saved:</hi> Hold faſt the Ring and you ſecure the Jewel. In the bails and bundle of Life and Bleſſings; the Covering that all is bound up in, is Prayer. If you come not at that to lay it open, you can come at no other particulars of the <hi>Invoice</hi> of Salvation. The Lord Jeſus hath ſent us the Treaſures of His Goodneſs Lockt up in the Glorious <hi>Cabinet</hi> of the New Covenant and Promiſe, and in the Lock thereof is put the <hi>Key</hi> of Prayer; now God hath Ordained ſuch an Order and Me<g ref="char:EOLhyphen"/>thod in the Application of the benefits, that we ſhall firſt take and uſe the <hi>Key</hi> and thereby come at further Mercys: and the <hi>Eterna<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Decree</hi> is <hi>ſo Abſolute,</hi> that we can no more fail of the means ſet down in that decree, than we can fail of the end; and therefore they ſpeak what is not meet to be ſpoken of God, that ſay, They and their Brethren ſhall do well enough, if it be ſo decreed, whether they Pray or no; as if God had certainly decreed the <hi>End</hi> without the <hi>Means.</hi> And they Blaſ<g ref="char:EOLhyphen"/>pheme the Lord Jeſus Chriſt, who look to Prayer, more than unto Chriſt Himſelf; when as Prayer without Chriſt is worſe than nothing. 'Tis CHRISTS NAME mainly and not our Prayers that hath Power with God and with Chriſt Joh. 14.23. <hi>What eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="39" facs="tcp:46661:20"/> yee Ask in MY NAME, I will do it.</hi> Chriſtians! If when you ſtand in need of Atonement, Pardon &amp; other Bleſſings, you fly to your Pray<g ref="char:EOLhyphen"/>ers, but neglect Chriſt, His Blood and Inter<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſion, and free Promiſe of Grace to Sinners; <hi>God</hi> may break your Prayers to pieces and make them <hi>Nehuſhtans,</hi> and you ſhall be ſo ſhut up, that you ſhall not be able to <hi>Pray,</hi> till you mend that Great Fault. But if you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arry <hi>Christ</hi> and His <hi>Name,</hi> in the Veſſel of your <hi>Prayers,</hi> you ſhall arrive at your de<g ref="char:EOLhyphen"/>ſired Port in Safety. The <hi>Promiſes</hi> Aſſure us of the Prevalency of Prayer, and Innumerable Experiences of Saints are ſo many Seals to the Aſſurance. What frequency and fervency of Prayer was uſed by the <hi>Fathers</hi> of <hi>New-Eng<g ref="char:EOLhyphen"/>land,</hi> and Oh with what Glorious Succeſſes! Time would fail, to mention other Inſtances, faithfully Recorded by one of our Reverend <hi>Seers,</hi> in his precious B<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k, Intituled, <hi>The Pre<g ref="char:EOLhyphen"/>va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ency of Prayer,</hi> to which I refer you.</p>
+               <p>So much ſhall ſuffice for the <hi>Demonſtra<g ref="char:EOLhyphen"/>tion</hi> of the DOCTRINE.</p>
+            </div>
+            <div type="part">
+               <head>I Proceed to the APPLICATION.</head>
+               <p>And omitting what might be ſpoken by way of Inference, for Information, Humiliati<g ref="char:EOLhyphen"/>on,
+<pb n="40" facs="tcp:46661:21"/> Caution, Reproof, Tryal and Comſort, leaſt I ſhould be too Prolix, I ſhall only add ſomewhat, by way of Exhortation unto the great Duty of Prayer; and particularly, Let us from what we have now had of the Word of the Lord, be effectually moved <hi>to turn our Brethrens Caſes into Prayers.</hi> Two <hi>Sorts</hi> of <hi>Prayer</hi> Let me Urge upon you, <hi>in the Name of the Lord, the God that Heareth Prayer;</hi> viz.</p>
+               <p n="1">[1.] <hi>Proper</hi> Prayer. And [2.] <hi>Practical</hi> Prayer, as ſome Diſtinguiſh them.</p>
+               <p>Firſtly; <hi>Proper Prayer,</hi> both <hi>Mental</hi> and <hi>Vocal,</hi> not <hi>Publick</hi> only, but alſo <hi>Private and Secret.</hi> Make dayly moſt <hi>Religious Repre<g ref="char:EOLhyphen"/>ſentations</hi> of your <hi>Wills</hi> and <hi>Deſires</hi> as to <hi>theſe Matters,</hi> unto the <hi>Lord,</hi> and Pour out your <hi>Hearts</hi> before Him: We have proved that it is <hi>not needleſs:</hi> GOD <hi>Will have</hi> Our <hi>Good Will</hi> to <hi>His Doing</hi> of our Neighbours Good. Yea, (as Proud as we are, and prone to de<g ref="char:EOLhyphen"/>ſpiſe our ſinful Brethren and their Prayers) the <hi>Moſt High</hi> will make us ſtoop to them, to beg their Prayers, before He will ſtoop down to us, with ſuch Mercies and Bounties as only can lift us up. I add, He is a Stranger in Iſ<g ref="char:EOLhyphen"/>rael that hath not heard of the deplorable E<g ref="char:EOLhyphen"/>ſtate of Religion (not to mention Morality) in ſome of the <hi>Engliſh Plantations</hi> in thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ame<g ref="char:EOLhyphen"/>rica;</hi> and for what an aſtoniſhing Number of years, Ignorance, Atheiſm, Profaneneſs and
+<pb n="41" facs="tcp:46661:21"/> Confuſion have prevailed, not only to the amazement of their Neighbours, but alſo un<g ref="char:EOLhyphen"/>to the Grief and Lamentation of all <hi>Good</hi> and <hi>Wiſe</hi> men, among themſelves, who ſtill found their Eſſays and Motions for general Refor<g ref="char:EOLhyphen"/>mation, without the deſired ſucceſs. And in truth, we are ſwallowed up, when we venture to wade into the deep <hi>Myſteries</hi> of the hidden <hi>Counſels</hi> of the Wiſdom, Soveraignty, and Holineſs of God; and the <hi>Interpreter</hi> had need be One of a Thouſand [<hi>Job</hi> 33.23, 24] Who ſhall only declare ſo much thereof, as <hi>must</hi> be <hi>Heard</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nderſtood,</hi> be<g ref="char:EOLhyphen"/>fore the <hi>Lord</hi> will <hi>alter</hi> the Courſe and Tenor of His Diſpenſations; The Good Lord give every of Them to have ſuch an <hi>Interpreter</hi> a<g ref="char:EOLhyphen"/>mong them, for His Mercies ſake, <hi>Amen.</hi> But if any Thunders have uttered the <hi>Voice</hi> of God, yet I muſt confeſs and bewail my dulneſs of Hearing, and Apprehenſion, and Unfitneſs to declare and expound the ſame: Only <hi>One</hi> thing hath been ſo plainly ſpoken, and is ſo agreeable to our preſent Subj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct, and to the like Diſcoveries of Gods Mind and Way, that are made and exhibited to us in His <hi>Written O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>acles,</hi> as that I cannot forbear to give an hint thereof: And what is the <hi>Voice of the Lord</hi> unto ſome of the <hi>Plantations!</hi> A<g ref="char:EOLhyphen"/>mong many other Things, doth not the Lord ſay, <q>
+                     <hi>Oh my poor People,</hi> whom I have
+<pb n="42" facs="tcp:46661:22"/> permitted to ſpread abroad in the Wilder<g ref="char:EOLhyphen"/>neſs, and to labour under <hi>Spiritual Difficul<g ref="char:EOLhyphen"/>ties!</hi> I know the <hi>Prejudices</hi> you have long had, againſt your <hi>Neighbours</hi> the <hi>Churches</hi> of <hi>New-England,</hi> eſpecially for ſome of their <hi>Strictneſses</hi> and <hi>Severities</hi> in their <hi>Exceſs</hi> of <hi>Zeal</hi> for <hi>My Name:</hi> I am not ignorant, how <hi>faſt</hi> your hearts have been <hi>ſhut</hi> againſt them, and how uncapable of receiving any <hi>Spiritual Advantage</hi> from them. I alſo have ſeen all their <hi>Tranſgreſſions</hi> and <hi>Declenſions,</hi> and have variouſly <hi>Puniſhed</hi> them, uſing both <hi>ordinary</hi> and <hi>extraordinary</hi> Means for their Recovery; and <hi>many</hi> of <hi>you,</hi> for your part, have (as <hi>Jobs</hi> three Friends) reputed them, <hi>Wicked Hypocrites,</hi> and their <hi>ſtrict Pro<g ref="char:EOLhyphen"/>feſſion</hi> to be nothing but a <hi>vile Formality,</hi> for which the <hi>Divine Vengeance</hi> comes down upon <hi>Them;</hi> yet although the <hi>Distance</hi> be<g ref="char:EOLhyphen"/>tween you is ſo <hi>wide,</hi> I that have <hi>Mercies</hi> in ſtore for <hi>you both,</hi> am abſolutely reſol<g ref="char:EOLhyphen"/>ved, that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y ſhall not be b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtowed, until the difference be made up, yea, I am re<g ref="char:EOLhyphen"/>ſolved, that <hi>your Offerings</hi> to the <hi>Lord,</hi> ſhall be put into <hi>Their Hands,</hi> and that you ſhall be much in <hi>Their Hearts</hi> and <hi>Prayers,</hi> before you be <hi>Accepted</hi> to higheſt <hi>Favour's,</hi> and <hi>B eſſings,</hi> to become a <hi>Name,</hi> a <hi>Praiſe,</hi> and a <hi>G ory</hi> to <hi>Me</hi> in the Earth; and <hi>they ſhall</hi> ex<g ref="char:EOLhyphen"/>preſs their moſt aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctionate R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gards, (for
+<pb n="43" facs="tcp:46661:22"/> 
+                     <hi>My ſake</hi>) Unto you with Chriſtian Solli<g ref="char:EOLhyphen"/>citudes for your everlaſting Wefare, before I ſhall <hi>turn Their Captivity.</hi> See Job 42.7, 8, 9, 10.</q>
+               </p>
+               <p>I proceed to ſay, that to me, it is no Won<g ref="char:EOLhyphen"/>der that choiceſt Bleſſings are but <hi>ſparingly</hi> be<g ref="char:EOLhyphen"/>ſtowed upon particular Perſons and Families and Churches too, ſince (while Iniquity a<g ref="char:EOLhyphen"/>boundeth) Love and Zeal, <hi>Wax cold,</hi> and there are ſo few Church Faſtings and <hi>Prayers,</hi> &amp; Family Faſtings and <hi>Prayers,</hi> &amp; the <hi>Private Meetings</hi> of the <hi>
+                     <g ref="char:V">Ʋ</g>pright,</hi> are by ſo many laid aſide. Oh ſenſible Believer! <q>Art thou un<g ref="char:EOLhyphen"/>der the Frowns of the Lord, and is He ſparing of His <hi>B eſſings? <hi>Thus ſaith the Lord God unto thee</hi>
+                     </hi> [Iſa 50.2. &amp; 59 1] 'Tis not, becauſe <hi>My Hand is ſhortned;</hi> 'Tis not, becauſe <hi>Mine Ear</hi> is grown <hi>Heavy;</hi> 'Tis not, becauſe My <hi>Goodneſs</hi> is <hi>Exhauſted;</hi> I certainly <hi>intend</hi> to give you the Bl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſings which you need, in great Abundance; but, <hi>Firſt of all,</hi> I <hi>muſt</hi> have more of your <hi>own</hi> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arty Good <hi>Will</hi> and <hi>Deſires</hi> for it, than <hi>Yet</hi> I have ſeen: You muſt come to ſee that they are <hi>Gifts Worthy</hi> and <hi>Fit</hi> for a GOD of Infinite Power, Riches, and Good<g ref="char:EOLhyphen"/>neſs, to give; and to you moſt <hi>Needful,</hi> and <hi>ſuch</hi> as you will <hi>Glorify Me</hi> for: So muſt you <hi>Open your Mouths wide, that I may f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll them.</hi> [Pſal. 81.10.] And <hi>
+                        <g ref="char:V">Ʋ</g>rge Me,</hi> with
+<pb n="44" facs="tcp:46661:23"/> your reſtleſs <hi>Importunity,</hi> And I will not ſay you <hi>Nay;</hi> But this is not all, for Secondly, There are ſeveral dear <hi>Friends</hi> and <hi>Children</hi> of <hi>Mine,</hi> whom I muſt and will <hi>Honour,</hi> and <hi>Gratify,</hi> in the ſame Matter, at the ſame Time; Go and acquaint them with your Caſe, Get them together, before Me, that I may take their Sufferage, Conſent, Requeſt. If they do not pitty you, the <hi>Set Time</hi> for My Favour in your Caſe, is <hi>not yet fully come.</hi> Pſal. 102.13, 14. But Know, for your Comfort, that I have Decreed it, that both <hi>They ſhall will,</hi> and <hi>I Work,</hi> for My Glory, and your Comfort.</q> Well, we are now <hi>be<g ref="char:EOLhyphen"/>fore God,</hi> and our <hi>Brethren</hi> have <hi>beg'd our Prayers,</hi> and under <hi>God</hi> and <hi>Christ,</hi> have a great <hi>Confidence</hi> of <hi>them,</hi> Let us not ſay them Nay; Or be willing that God ſhould ſay us Nay. Stir we up our ſelves <hi>to take hold of God</hi> with the Effectual <hi>Fervent Prayers, that avail much.</hi> Help them to <hi>Work</hi> the <hi>Engine</hi> that turns about the <hi>Hearts</hi> of men and the <hi>Face</hi> of God; and hold out to the End: Be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove <hi>Guilt, Fears, Faintings,</hi> in the <hi>Name</hi> of <hi>Chriſt!</hi> Let us not be <hi>Out done,</hi> by <hi>Women</hi> that have <hi>done</hi> great things in this way! See that <hi>Gentile Woman</hi> in Matt. 15 22-28. How <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>deſtly Impudent</hi> and <hi>Invincible</hi> ſhe is; [to uſe the Words of <hi>Nazianzen,</hi> concerning that Heavenly <hi>Heroeſse</hi> and Powerful <hi>Amazon,</hi> his
+<pb n="45" facs="tcp:46661:23"/> 
+                  <hi>Siſter</hi>] Not her <hi>Sex,</hi> not her <hi>Nation,</hi> not her <hi>Sins,</hi> not her <hi>Miſery,</hi> nor yet her <hi>Delays,</hi> from the LORD, can diſcourage her: Will <hi>Chriſt</hi> give <hi>No Anſwer?</hi> I'le at it again, (thinks ſhe) Here's no <hi>Denyall</hi> yet: Doth He give a <hi>Diſcouraging, Chiding, <g ref="char:V">Ʋ</g>pbraiding Anſwer?</hi> 'Tis well (thinks ſhe) His <hi>Majeſty</hi> Vouchſafes, at all, to <hi>Reply;</hi> that He condeſcends to <hi>Argue the Caſe,</hi> and Capitulate, as having tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n it into <hi>Conſideration:</hi> Calls He her, <hi>Dog?</hi> Here's Encouragement; May ſhe be of the number of <hi>Houſhold Animals,</hi> ſhe is content, and puts in hard for <hi>Crums</hi> and <hi>Scraps:</hi> She <hi>will not take a Denyall;</hi> Well, the <hi>Lord</hi> at length al<g ref="char:EOLhyphen"/>lows her to be <hi>Her own Carver;</hi> She is <hi>Humble</hi> in Asking, but <hi>have it, ſhe Will:</hi> And inſtantly, and fully, ſhe has even <hi>What ſhe will.</hi> Was there ever Faith and Courage more <hi>Magnanimous</hi> and <hi>Maſculine.</hi>
+               </p>
+               <p>If <hi>God</hi> hath made us <hi>Kings</hi> and <hi>Prieſts,</hi> Rev. 5.10. and if ever we <hi>Reign</hi> with <hi>God</hi> over <hi>Heaven</hi> and <hi>Earth,</hi> while we are on this ſide Heaven; it is at leaſt partly Spiritually by Importunate Prayer. The <hi>Lord</hi> admires that Champion <hi>Iacob,</hi> and <hi>Honours</hi> Him to all Generations: <hi>What is thy Name?</hi> Saith He: It is <hi>(as a Learned Author expreſseth it)</hi> as if he ſhould have ſaid, <hi>I never met with ſuch a Fellow:</hi> Now as the Infants Cries and Tears can do any thing with the Parents,
+<pb n="46" facs="tcp:46661:24"/> ſo <hi>Jacob, He wept and made Supplication to the Angel, (that is) CHRIST, and Prevailed</hi> [Gen. 32.24, 27. Hoſ. 12.4.] [Like as He <hi>Commanded Athens</hi> of old, that could do any thing with <hi>Her,</hi> who could do every thing with <hi>Him</hi> that Sway'd that <hi>State<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>] But on the other hand conſider, He that Prays coldly, begs a Denyal. Now ſhall not theſe things move us? Do not our Brethrens urgent Ne<g ref="char:EOLhyphen"/>ceſſities, urge our urgent and fervent Supplica<g ref="char:EOLhyphen"/>tions? Inaſmuch as, if we turn th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Caſes in<g ref="char:EOLhyphen"/>to inſtant Prayers to God, He will, and per<g ref="char:EOLhyphen"/>haps inſtantly too, turn their Caſes into Bleſ<g ref="char:EOLhyphen"/>ſings. And if this <hi>Branch</hi> of the <hi>Exhortation</hi> Laden with the full ripe <hi>Cluſters</hi> of <hi>Eſchol,</hi> fall chiefly to <hi>our Share,</hi> that <hi>Stay at Home;</hi> Let the other <hi>Branch</hi> be eſpecially for ſuch as <hi>Move Abroad,</hi> to carry with them: It Urgeth upon YOU the Wiſe Merchandize of <hi>Pra<g ref="char:EOLhyphen"/>ctical Prayer.</hi> There is in <hi>every act</hi> of <hi>Goſ<g ref="char:EOLhyphen"/>pel Obedience,</hi> a certain <hi>Power</hi> to <hi>Impetrate Bleſſings</hi> at the Hands of God. [<hi>Ameſ. Me<g ref="char:EOLhyphen"/>dul. p.</hi> 266. <hi>Amst.</hi>] This is <hi>figuratively</hi> deno<g ref="char:EOLhyphen"/>minated <hi>Prayer:</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et is it ſo <hi>neceſsary,</hi> as that no <hi>Prayers</hi> are, with the Lord <hi>acceptable</hi> and <hi>prevalent</hi> without it. <hi>Obedience is better than Sacrifice</hi> [1 Sam. 15.22.] If we ſeparate Prayer from Obedience, we <hi>maim</hi> the <hi>Sacri<g ref="char:EOLhyphen"/>fice,</hi> and ſhall offer a blind, lame, corrupt un<g ref="char:EOLhyphen"/>acceptable, abominable thing. But <hi>one point</hi>
+                  <pb n="47" facs="tcp:46661:24"/> of <hi>Obedience,</hi> I would take leave to Re<g ref="char:EOLhyphen"/>commend eſpecially unto you, and leave it with you, before we take our Leave; and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat is the <hi>Obedience</hi> of <hi>Endeavour;</hi> You muſt <hi>Watch</hi> as well as <hi>Pray</hi> againſt <hi>Tempta<g ref="char:EOLhyphen"/>tion;</hi> [Mat. 26.41.] You muſt <hi>Work</hi> for, as well as <hi>Pray</hi> for, <hi>the Salvation of Souls,</hi> and the <hi>Inlargement</hi> of the <hi>Kingdom</hi> of <hi>Chriſt Ieſus. <hi>
+                        <g ref="char:V">Ʋ</g>p and be Doing, and the Lord will be with you.</hi>
+                  </hi> The <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> and <hi>Application</hi> of <hi>Means Natural,</hi> for this or that <hi>End,</hi> what is it, but an <hi>Application</hi> to the God of <hi>Nature</hi> for that <hi>End.</hi> God is ſaid to <hi>Hearken</hi> to it, as if it were a <hi>Prayer</hi> unto <hi>Him</hi> [Gen. 30.17.] <hi>In vain</hi> doth <hi>Balaam</hi> deſire the <hi>End</hi> of the <hi>Righteous,</hi> that would not Uſe their <hi>Way.</hi> The <hi>Child</hi> of Grace, when he deſires the <hi>Breaſt</hi> of Bleſſing, you ſhall ſee his <hi>Eyes, Lips, Tongue, Hands, Feet,</hi> all move together: <hi>The Sluggard deſireth: and hath nothing,</hi> Prov. 13.4. but Hunger and Nakedneſs, <hi>Prov.</hi> 23.21. <hi>becauſe his hands refuſe to labour.</hi> Prov. 21.25. <hi>Iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ael</hi> bound for <hi>Canaan</hi> muſt <hi>Stand ſtill</hi> from Dif<g ref="char:EOLhyphen"/>fidence and Diſtraction, but not from Endea<g ref="char:EOLhyphen"/>vour, <hi>Exod.</hi> 14.13, 15. — <hi>And the Lord ſaid unto</hi> Moſes, <hi>wherefore Cryest thou unto me: Speak thou unto the Children of Iſrael, that they Go</hi> FORWARD.</p>
+               <p>Now that nothing may Diſcourage your and our Faith in Prayer, and Courage in En<g ref="char:EOLhyphen"/>deavour,
+<pb n="48" facs="tcp:46661:25"/> Let me remove ſome Objections out of the way and ſo Conclude.</p>
+               <p>The <hi>Objections</hi> that I ſuſpect, refer chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fly to theſe Four Heads.</p>
+               <list>
+                  <item>[1] The Work.</item>
+                  <item>[2.] The Call.</item>
+                  <item>[3.] The Times.</item>
+                  <item>[4] The Events</item>
+               </list>
+               <p n="1">1. The <hi>Work</hi> it ſelf: 'Tis unreaſonable that any Doubt ſhould ariſe, whether it be the <hi>Lords</hi> or no. Truly, the SIGNS of the <hi>Work</hi> of the <hi>Lord,</hi> are to be <hi>ſeen</hi> upon it. Is it not for the <hi>Glory</hi> of <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi> and <hi>Good</hi> of <hi>men?</hi> Do not both <hi>Piety</hi> and <hi>Charity</hi> conſtrain unto it? Or was it ſet about without thoughts, cares, counſels, prayers, fears? Is not the <hi>O<g ref="char:EOLunhyphen"/>pen Door</hi> that is afforded, an <hi>Anſwer</hi> of many Publick <hi>Prayers?</hi> Doth it not <hi>begin Low?</hi> hath it not occaſioned ſome <hi>Commotion</hi> in ſome Places? Hath it no <hi>Adverſaries?</hi> Is it n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <hi>contrary</hi> to the Intereſts of the <hi>World,</hi> the <hi>Fleſh</hi> and the <hi>Devil?</hi> Hath it not been <hi>strange<g ref="char:EOLhyphen"/>ly forwarded</hi> by <hi>Oppoſitions?</hi> Hath not the <hi>Progreſs</hi> of it <hi>exceeded</hi> our rational <hi>Expectations?</hi> How many <hi>Divine Commands</hi> and <hi>Promiſe</hi> refer unto ſuch <hi>Work</hi> to be done in the <hi>Latte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Dayes,</hi> whereof ſome have been already me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tioned. Although I well remember what h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaid of old, <hi>viz. Careat. ſucc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſibus opto, Quiſqui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ab Even<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Facta notanda Putet:</hi> Yet I wi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="49" facs="tcp:46661:25" rendition="simple:additions"/> ſay, is it not <hi>Encouraging</hi> to recognize and conſider, what <hi>ſmiles</hi> of <hi>Heaven</hi> have been <hi>thus Early</hi> upon it? (If it muſt indeed be put to the <hi>teſt</hi> of preſent appearances of Providence) Is there any one Perſon living, that knew the former wide Diſtances, Deep Prejudices, Jea<g ref="char:EOLhyphen"/>louſys and Animoſities, that admires not, with what a Temper (agreable to Chriſtianity) Our Godly <hi>Ministers,</hi> in their ſeveral Turns, Waiting upon them, and <hi>Christs Goſpel</hi> with them have been <hi>Received</hi> and <hi>Entertained;</hi> and how many <hi>Worthy Gentlemen</hi> in the place which is referred unto, have appeared to forward the Work? (<hi>One of whom</hi> being preſent at a <hi>Town Meeting,</hi> wherein many appeared, very deſi<g ref="char:EOLhyphen"/>rous to hinder it) ſtood up, and had Wiſdom and Courage enough to ſay, <hi>Refrain from theſe men, and let them alone: for if this Counſel and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his Work be of men, it will come to nought; but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f it be of God, ye cannot overthrow it, leaſt haply <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee be found even to fight against God</hi> [as it is in <hi>Acts</hi> 5.38, 39.] I will be bold then to ſup<g ref="char:EOLhyphen"/>poſe, yea conclude, That <hi>ſuch</hi> and ſo <hi>many <hi>Signs,</hi>
+                  </hi> may be ſufficient to create <hi>ſome Hope,</hi> at leaſt, That <hi>this Work is of the Lord;</hi> And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou may therefore <hi>adventure</hi> upon it, with <hi>Cheerfulneſs</hi> and <hi>Confidence.</hi>
+               </p>
+               <p n="2">[2] Perhaps, your <hi>Call</hi> unto the <hi>Work,</hi> will be <hi>Objected againſt,</hi> on account of your <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nability, <g ref="char:V">Ʋ</g>nworthineſs, Want of Ordination, as
+<pb n="50" facs="tcp:46661:26"/> to ſome of you; Abſenc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> from the <hi>Ordinances of God,</hi> Abſence from <hi>Friends, Straitneſs</hi> as to Temporals, &amp;c. But,</p>
+               <p n="1">1. If you complain, how much you fall ſhort of the ſufficient Abilities of others for ſo great a Work. Then I reply; The Apoſtolical Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtion remains ſtill to be Anſwered, <hi>Who is ſufficient for theſe things?</hi> 2 Cor. 2.16. Yet remember, If there be not <hi>Gifts,</hi> if there be not <hi>Grace,</hi> ſufficient <hi>in you,</hi> yet there is Grace <hi>ſufficient for you;</hi> and <hi>you</hi> know, in and with <hi>whom.</hi> 2 Cor. 12.9. <hi>Pauls</hi> preſence was thought mean and ſpeech cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ible. 2 Cor. 10.10. Yet he acknowledgeth the <hi>Grace of GOD, that he was, what he was</hi> 1 Cor 15 10. He was not too <hi>Great</hi> for <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> to Work by: He could hold the earthen V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſels and Lamps while the Lord fulfilled the Work, to allude to <hi>Judg.</hi> 7.2, 20 Yet he that undertakes the Work of <hi>God,</hi> in the Strength and Abi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies of a <hi>Man,</hi> will out <hi>Shame</hi> the Work and <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eak</hi> himſelf. <hi>Jeremys</hi> inſufficiency would not A<g ref="char:EOLhyphen"/>vail, as a <hi>ſufficient excuſe,</hi> to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xempt <hi>him</hi> from the Work of <hi>God.</hi> Jere. 1 6, 7, 8 <hi>Their ſaid I, Ah Lord GOD! I cannot ſpeak, for I am a Chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. But the Lord ſaid unto me, ſay not I am a Chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d: For thou</hi> SHALT GO <hi>to All, to whom I ſhall ſend thee, and whatſoever I command thee, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u</hi> SHALT SPEAK: — <hi>For</hi> I AM WITH THEE, &amp;c. Hearken to the Conference of
+<pb n="51" facs="tcp:46661:26"/> GOD &amp; <hi>Moſes:</hi> Exod. 4.10, 11, 12. <hi>Moſes ſaid, I am not Eloquent, neither heretofore, nor ſince thou haſt ſpoken unto thy Servant, but I am ſlow of ſpeech, &amp;c. And the</hi> LORD <hi>ſaid unto him,</hi> WHO <hi>hath</hi> MADE <hi>Mans mouth? — Have not I the</hi> LORD? <hi>Now therefore</hi> GO: <hi>And I will</hi> BE WITH <hi>thy Mouth, and</hi> TEACH <hi>thee, what thou ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ſay.</hi> And the <hi>Lord was Angry,</hi> Verſe 14. when he demurred after this.</p>
+               <p n="2">2. If againſt the Divine Validity of your <hi>Call,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou <hi>Object</hi> your own <hi>
+                     <g ref="char:V">Ʋ</g>nworthineſs;</hi> you muſt give me leave to <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſwer,</hi> That this <hi>Ob<g ref="char:EOLhyphen"/>jection</hi> would not be accepted in <hi>Joſhua's</hi> caſe, who was before the <hi>Ange<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Cloathed with <hi>filthy</hi> Garments, <hi>Zech.</hi> 3.3. but was moſt happily removed and ſo (I truſt in <hi>God</hi> through <hi>Chriſt</hi>) ſhall yours. 'Tis not unuſual for the <hi>Lord</hi> to bring His Servants unto a deep and moſt Soul humbling <hi>Senſe</hi> of their Vileneſs juſt upon their <hi>Entrance</hi> into <hi>His Work,</hi> which wonder<g ref="char:EOLhyphen"/>fully prepares them, for it, and His M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcy in it. So in <hi>Iſa.</hi> 6.5 The Prophet Crys out, <hi>Wo is me! I am undone! A man of <g ref="char:V">Ʋ</g>nclean Lips &amp;c.</hi> I ſhall not therefore go about to diminiſh your apprehenſions, and ſenſe of greateſt Unworthi<g ref="char:EOLhyphen"/>neſs of any part of the <hi>Lords Work</hi> and much more of ſo great and extraordinary a part of it; but Inſtructing you unto higheſt adm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rations at His Grace to you therein, ſhall only Remember you of what the Great Apoſtle of
+<pb n="52" facs="tcp:46661:27" rendition="simple:additions"/> the Gentiles ſaid in his own caſe: Eph. 3.8 <hi>
+                     <g ref="char:V">Ʋ</g>nto me, who am</hi> LESS THAN THE LEAST <hi>of all Saints, is this Grace given, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I ſhould Preach among the Gentiles the <g ref="char:V">Ʋ</g>nſearch<g ref="char:EOLunhyphen"/>able Riches of</hi> CHRIST.</p>
+               <p n="3">3 But, you will ſay, ſome Object againſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Divine and Orderly Call and Miſſion of <hi>One</hi> of you, becauſe he carries <hi>Brethren</hi> with him. Unto which I might <hi>Anſwer,</hi> that we find not only <hi>Evangelists,</hi> but alſo <hi>Meſsenger<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> of Churches, of the <hi>Fraternity,</hi> attending ſuch as were ſent forth upon ſuch Work of old, &amp; that the <hi>Fathers</hi> of <hi>New-England</hi> did ſo much in <hi>England,</hi> in order to the Work of Chriſt here, as may allow me to ſay in this Caſe, that that man now varys a large point from the wiſdom of the Wiſeſt, that <hi>Sets his Heart to every word that is ſpoken. Eccleſ.</hi> 7.21 YOU well know, what <hi>Importunity</hi> was uſed with our <hi>Miniſters,</hi> by Letters, and otherwiſe, that both a <hi>Miniſter</hi> ſhould be <hi>Sent</hi> to thoſe <hi>Remote Places,</hi> and that He ſhould be here <hi>Or<g ref="char:EOLhyphen"/>dained</hi> alſo: Sundry Godly <hi>Chriſtians</hi> there, being both prepared for, and longing after the Enjoyment of <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> the Edifying Ordinances of God; there being withal in all that <hi>Country</hi> neither Ordained <hi>Miniſter,</hi> nor any <hi>Church,</hi> in full Goſpel <hi>Order,</hi> and ſo neither <hi>Impoſition of the Hands of the Presbytery,</hi> nor <hi>Donation of the Right-hand of Fellowſhip</hi> to be expected there,
+<pb n="53" facs="tcp:46661:27"/> or from any Place, much nearer to them than our ſelves. And ſome of YOU can tell, how often, our Reverend <hi>Brother</hi> was offered <hi>Or<g ref="char:EOLhyphen"/>dination</hi> to this Work of <hi>Chriſt, in foro Eccle<g ref="char:EOLhyphen"/>ſiaſtico,</hi> in a Way, not diſagreeable to what we find in Acts 13.2, 3. whereunto many <hi>Churches</hi> in the Neighbourhood, might alſo have been <hi>Concurring</hi> and <hi>Aſſisting.</hi> But this being a <hi>Rarity,</hi> not eaſily to be juſtifyed from preceding <hi>Examples</hi> in <hi>New-England,</hi> where there hath been ſeldom any <hi>Occaſion to think</hi> of the Ordination of a <hi>Minister,</hi> until by ſome time of Preaching, and Converſing with Them, His Doctrine, Abilities and Conver<g ref="char:EOLhyphen"/>ſation, (b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſides good Teſtimony from <hi>Miniſters</hi> and <hi>Chriſtians,</hi> in the <hi>Vicinity</hi>) come to be <hi>Approved</hi> by the <hi>Congregation</hi> themſelves, over whom He is to be the <hi>Overſeer,</hi> and He he by <hi>Them,</hi> or the <hi>most of Them, Elected</hi> to be their <hi>Paſtor</hi> or <hi>Teacher.</hi> A Practice War<g ref="char:EOLhyphen"/>ranted by <hi>Acts</hi> 6 3-6. As alſo by <hi>Acts</hi> 14.23. The <hi>Original</hi> word there uſed, ſignifying Ordination not without but by and with the <hi>Suffrage</hi> of many, <hi>manifeſted by lifting up of Hands;</hi> Authors, both Sacred and Profane a<g ref="char:EOLhyphen"/>mong the <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>raecians,</hi> always uſing <hi>that word</hi> in <hi>ſuch a Senſe</hi> (as the Learned <hi>Cartwright</hi> hath E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aborately and Unanſwerably Evinced) ac<g ref="char:EOLhyphen"/>cording to the proper <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tation</hi> thereof: This (I ſay) being a <hi>R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>it<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> here, our Brother mo<g ref="char:EOLhyphen"/>deſtly
+<pb n="54" facs="tcp:46661:28" rendition="simple:additions"/> 
+                  <hi>Declined</hi> it, though the Extraordinari<g ref="char:EOLhyphen"/>neſs of the Caſe ſeemed to allow, yea, require the ſame. And his Averſion to it being known unto <hi>Sundry Brethren</hi> of our Churches, [<hi>Who</hi> when they were in thoſe <hi>Remote Parts</hi> met with ſuch Solicitations from ſome Godly Inhabitants there (whoſe Souls longed for more Communion of Saints, and for all Gods Holy Ordinances, but were loth to remove from that Place, if they might obtain the ſame there) as prevailed upon them to reſolve to return to them, and take up their ſettled A<g ref="char:EOLhyphen"/>boad among them] They being now Bound thither, deſired to Gather into a Church, that ſo a <hi>Minister</hi> might be <hi>Ordained</hi> in the <hi>ordinary</hi> Way, whom they might carry with them thither: But theſe being too <hi>Few,</hi> ſome <hi>Others</hi> Influenced (as I cannot but believe) by the <hi>Holy Spirit of God,</hi> with a deep <hi>Concern<g ref="char:EOLhyphen"/>ment of Spirit,</hi> leaſt <hi>That</hi> which they thought to be the <hi>Work of God,</hi> ſhould fall to the Ground, for want of two or three <hi>Hands</hi> more, offered their Conjunction and Aſſiſtance, All of them obtaining <hi>Letters of Diſmiſſion</hi> from their reſpective <hi>Churches</hi> unto ſo good a work, full of <hi>Complacency</hi> and <hi>Benedicti n.</hi> Theſe therefore having improved what advantages the time would allow, for the proving of one another both Gifts and Graces, and peculiar<g ref="char:EOLhyphen"/>ly their intended Paſtors, <hi>&amp;c</hi> It is come to
+<pb n="55" facs="tcp:46661:28"/> this, That a Godly Miniſter hath been by moſt Publick and Solemn Ordination Separa<g ref="char:EOLhyphen"/>ted to, and Sent forth upon the Service of the Goſpel and Kingdom of the <hi>Son of God,</hi> advantaged with the <hi>Attendance, Submiſſion</hi> &amp; <hi>Aſſiſtance</hi> of ſundry Godly <hi>Brethren,</hi> who ac<g ref="char:EOLhyphen"/>knowledge Him as their <hi>Pastor</hi> in the <hi>Lord.</hi> What is there, abating Humane Weakneſs, in all this, that the Godly will condemn, or that is Diſagreeable to the Holy Word of God? But it is Objected, that the <hi>Brethren</hi> aim not at the promoting of <hi>Chriſt's</hi> Glory and King<g ref="char:EOLhyphen"/>dom, but only or mainly at <hi>Secular Advantages.</hi> To this <hi>I Reply:</hi> If <hi>Suſpicion</hi> may make <hi>Guilty,</hi> who can be <hi>Innocent?</hi> not to ſay how <hi>Impro<g ref="char:EOLhyphen"/>bable</hi> the <hi>Suſpicion</hi> is as to <hi>ſome of them</hi> who are not likely to mend their <hi>Eſtates</hi> in divers years by their Removal, they being ſo com<g ref="char:EOLhyphen"/>fortably Seated here. Moreover, if men muſt ever be <hi>Diſcouraged</hi> from doing what they are well ſatisfied is <hi>Right and Good,</hi> becauſe they have <hi>deceitful Hearts,</hi> &amp; becauſe irregular aims &amp; thoughts (notwithſtanding all their watch<g ref="char:EOLhyphen"/>fulneſs) will ſometimes (to their ſorrow and ſelf-loathing for them) croud in: Then fare<g ref="char:EOLhyphen"/>wel all well Doing in the World: For with Ruſt, and Droſs ſufficient to imploy our own <hi>Fi es,</hi> and GODS <hi>Furnace</hi> too, all our Lives long, is our moſt <hi>Golden Sincerity</hi> in this World alloyed; and, <hi>Who can underſtand his
+<pb n="56" facs="tcp:46661:29"/> own Errors?</hi> Beſides that, they have ſolemnly <hi>Profeſsed,</hi> that <hi>Religion</hi> is chief in their Eye, which they would not loſe for all the World, but would firſtly promote in their Removal, and not their own Eſtates, except ſubordinate<g ref="char:EOLhyphen"/>ly, ſubſerviently, and ſecondarily thereunto: And as far as they can underſtand their own deceitful hearts (that though renewed, yet in this World, can be ſo but in part) contrary and ſiniſter <hi>Deſigns,</hi> and <hi>Deſires,</hi> they <hi>Know</hi> of <hi>none,</hi> they <hi>Allow</hi> of <hi>none</hi> Nor have they yet been Left of <hi>God,</hi> (ſo great hath been His <hi>Mercy</hi> towards Them) to <hi>Forfeit their Credit,</hi> ſo as to deſerve that they ſhould not be <hi>Belie<g ref="char:EOLhyphen"/>ved.</hi> I beſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch you therefore, <hi>My Brethren,</hi> to <hi>Suſpect</hi> your own H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arts, and to <hi>Charge</hi> and <hi>Judge</hi> your ſelves, as much as you can, yet ne<g ref="char:EOLhyphen"/>ver be Diſcouraged, if by others you chance to be Over-charged.</p>
+               <p n="4">4 But you will ſay, <hi>Others of <g ref="char:V">Ʋ</g>s</hi> are not <hi>Ordained,</hi> Is <hi>Our Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t clear? Anſw</hi> If God furniſh men with <hi>Ministerial Gifts and Grace</hi> diſcerned and approved by <hi>the Spirits</hi> of the <hi>Prophets,</hi> and with an Holy Propenſity of Mind, and an humble <hi>ſelf dedication</hi> unto the Work of the Miniſtry in general, and if the beſt advice that can be had after ſolemn ſeek<g ref="char:EOLhyphen"/>ing of God, carry them to <hi>ſuch a Peop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> in par<g ref="char:EOLhyphen"/>ticular, who <hi>accept</hi> them in the <hi>Lord,</hi> and de<g ref="char:EOLhyphen"/>ſire the Continuance of their Godly <hi>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ours</hi>
+                  <pb n="57" facs="tcp:46661:29"/> among <hi>Them,</hi> I believe <hi>ſuch men</hi> are <hi>Sent of God and Chriſt</hi> to ſuch a <hi>People;</hi> and as I never yet ſaw, ſo I am apt to think I never ſhall, any ſolid Confutation of the <hi>Scriptures</hi> and <hi>Arguments</hi> produced by my <hi>Predeceſsor</hi> in this Church, <hi>viz</hi> Your <hi>Judicious Teacher</hi> now with God, the very Reverend and Aged, Mr. <hi>Richard Mather,</hi> in his Printed <hi>Anſwer to Mr.</hi> Rutherford. Now <hi>all this</hi> may be ſaid con<g ref="char:EOLhyphen"/>cerning <hi>You,</hi> and ſomething more, namely that <hi>you being preſent</hi> at Private Meetings of <hi>Mini<g ref="char:EOLhyphen"/>ſters, for Fasting and Prayers</hi> (not to mention the frequent Publick Prayers that are made on your behalf) have been moſt ſolemnly Pre<g ref="char:EOLhyphen"/>ſented before the Lord for this Service of His Kingdom in many ardent Supplications for His Aſſiſtance, &amp; Acceptance therein. <hi>Obj</hi> But do we not read in the Works of the Learned <hi>Clarkson,</hi> that Laborious Searcher into Anti<g ref="char:EOLhyphen"/>quity, that for the firſt Three Hundred Years after Chriſt's Aſcenſion, every ſingle Con<g ref="char:EOLhyphen"/>gregation though conſiſting but of twenty Souls, or under, had an Ordained Biſhop, then ſo called more uſually than Paſtor, &amp; among the copious Inſtances given, few or none of Miniſters any where in all the World that were not Ordained Biſhops, though in the Smalleſt Places. <hi>Anſw.</hi> If in the Primitive Times, Deacons muſt firſt be proved before Their Inſtallment into, and Inſtatement in their
+<pb n="58" facs="tcp:46661:30"/> Office and Work, then much more Miniſters, and doubtleſs the Primitive Church allowed ſome to Preach as Probationers; though we meet not with multitudes of Inſtances: I know the extream ſtrictneſs and caution of the Churches of the Reformation in <hi>France,</hi> in this matter, who allow not an Unordained Proba<g ref="char:EOLhyphen"/>tioner to Preach, except an Ordained Mini<g ref="char:EOLhyphen"/>ſter be preſent to give a word of Exhortation after he hath Done, which is needleſs as to your ſelves; yet notwithſtanding what hath been mentioned, I could rejoyce, if ſome further ſteps were taken, and I hope in Gods good time it ſhall be ſo. If you find Converts in the Pla<g ref="char:EOLhyphen"/>ces you are going unto, I hope you will ha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ten them into Church Eſtate as faſt as you can, that You may (if God incline your hearts to ſettle with them) or ſome Others, be Or<g ref="char:EOLhyphen"/>dained to the Work of Chriſt among Them.</p>
+               <p>Yet again, If you ſay, are any of us Called of God to live without any of the <hi>Ordinances</hi> of God, and ſo to Jeopard our own S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uls: I pray Read, <hi>Rom</hi> 9 3. Ezek. 11.16. D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 12 3 Jam 5 19 Or, if you ſay, we want our Friends, look upon <hi>Mark</hi> 10.29, 30.</p>
+               <p n="3">III. But the <hi>Times</hi> are <hi>Apoſtatick</hi> rather than <hi>Apoſtolick;</hi> Pride budding, Faction in Faſhion, Strife Rife, with Stoutneſs, Raſhneſs, Harſhneſs, Slander, Scorning among too ma<g ref="char:EOLhyphen"/>ny; once Holineſs was on Tavern Pots and
+<pb n="69" facs="tcp:46661:30"/> Trooping Bridles, <hi>Zech.</hi> 14.20, 21. Now, how much Lewdn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs! Moſt are ſound in Profeſſion, yet as to Practice of Godlineſs with not a few; the very <hi>Form</hi> is going after the <hi>Power,</hi> &amp;c. For <hi>Anſwer,</hi> Read <hi>Hag.</hi> 2.13, 14. with <hi>Hag.</hi> 1.13. <hi>All's <g ref="char:V">Ʋ</g>nclean, yet Work, and I'le be with you:</hi> Read alſo <hi>Rom.</hi> 11.15.</p>
+               <p>
+                  <hi>Obj.</hi> But we ſhould have been <hi>Earlier.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Beware of <hi>Further Guilt,</hi> by letting ſlip the <hi>Preſent Time:</hi> Take the <hi>Night,</hi> if the Day be loſt: <hi>Luk.</hi> 11.5 - 8 <hi>In the Night</hi> we have ſeen the <hi>Bow in the Cloud. Object.</hi> But <hi>Diſcontented People</hi> will <hi>Remove</hi> if we Go. <hi>Anſw</hi> S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if you Stay alſo: But <hi>Woe to us,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f we ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck for this Peril. <hi>Esther</hi> 4.11 14. <hi>Becauſe ſome Crums go awr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ſhall we <hi>Loſe the whole Meal</hi> of Mercy?</hi> But the <hi>Times</hi> are <hi>Troublous</hi> Yet ſee <hi>Dan</hi> 9 25. The <hi>Ap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtles</hi> alſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut forth in a <hi>Tempeſt,</hi> having Wind and Tide againſt them. <hi>Laſtly,</hi> Obj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct not <hi>E<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ents;</hi> to <hi>Paul</hi> and <hi>You</hi> alike <hi>
+                     <g ref="char:V">Ʋ</g>ncertain, Acts</hi> 20.22. Run the 'venture. 2 <hi>Sam</hi> 10 12. Know, There is ſomething <hi>worth the Seeking,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f GOD Lights the <hi>Candle</hi> Luk. 15 8. Your <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ains</hi> is <hi>well Paid,</hi> with the <hi>Gain</hi> of <hi>One <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oul.</hi> Jam. 5.20. If you <hi>Convert <hi>None</hi>
+                  </hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat are Fallen, you have your Hire, If you <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onfirm</hi> thoſe that <hi>Stand</hi> Eph 4.12, 13. However, Your <hi>Work</hi> will <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> into <hi>Your <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n Boſome.</hi> Pſal. 35.13. And Deſpair not
+<pb n="60" facs="tcp:46661:31"/> of <hi>Supply.</hi> GOD, not Man, maintains His <hi>Miniſters,</hi> though by Man Read Luke 22 35. Pſal. 34.9, 10. <hi>Obj.</hi> How ſhall we do, if <hi>Sincere</hi> Saints <hi>of other Perſwaſions</hi> offer themſelves? <hi>Anſ.</hi> If ſound in main Points and if they will not diſturb you in your way, <hi>Receive</hi> them, <hi>Rom.</hi> 14.1. <hi>Luk.</hi> 9 49, 50. Did not Godly Father <hi>Garnſey</hi> live and dy in the <hi>Communion</hi> of this <hi>Church of Dorcheſter:</hi> al<g ref="char:EOLhyphen"/>though an <hi>Epiſcopal man</hi> invariably? And was it not to his and our Edification.</p>
+               <p>
+                  <hi>Obj</hi> But the Goſpel like the Sea, what it Gains in one place, it loſeth in another: Are you in <hi>New-England,</hi> willing <hi>to part with the Goſpel?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This was the Objection and Scandal of the Jews of old. But we rather hope for <hi>life from the Dead</hi> by the <hi>Emulation,</hi> Rom. 11.14, 15</p>
+               <p>
+                  <hi>Obj.</hi> We would deſire to be <hi>Lions,</hi> if the Glory of God called us ſo to be: and <hi>neſcit remeare. Leo,</hi> Prov. 30 30 But it is not in us, we are born as the wild Aſs Colt, <hi>Job</hi> 11.12.</p>
+               <p>
+                  <hi>Anſw.</hi> Your <hi>Humility</hi> is to be <hi>Commended,</hi> yet (in a ſenſe) <hi>The Lord may have</hi> NEED <hi>of you,</hi> Luke 19.30-33. and may <hi>Honour</hi> you, if you will let him <hi>Ride you whither He pleaſeth</hi> Yea, the weak and fooliſh ſhall be as <hi>Davi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> alſo <hi>Zech.</hi> 12.8</p>
+               <p>
+                  <hi>Obj.</hi> But had not God raiſed up of the Son
+<pb n="61" facs="tcp:46661:31"/> of Iſrael [and of <hi>New-England</hi>] to be Pro<g ref="char:EOLhyphen"/>phets [<hi>Amos</hi> 2.11.] In the Schools of the Prophets at <hi>Bethe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and <hi>Jericho,</hi> (2 King. 2.3, 5. 1 King 18.4. 1 Sam. 19.20. He had not had Seven Thouſand Knees that had not Bowel to <hi>Baal</hi> there, notwithſtanding all the Sons of the Prophets in <hi>Judah</hi> hardby. And ſo Uninviting unto <hi>Strangers</hi> ſhould your poor <hi>Maintenance</hi> in <hi>New-England</hi> have been, that <hi>One Fifty</hi> of your <hi>Congregations</hi> would have been without a <hi>Learned, Able, Godly Miniſtry,</hi> had you depended wholly on <hi>Other Countreys</hi> for Supply, and ſo would have ſoon <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>generated,</hi> and ſo we fear <hi>Our Children</hi> will do. <hi>Anſ.</hi> Be Content to <hi>Creep</hi> before you <hi>Fy:</hi> Yet <hi>Lay Foundations</hi> for <hi>Great Matters</hi> in your day of <hi>Small things.</hi> Leſs than <hi>Eighty Pounds Per An<g ref="char:EOLhyphen"/>num, in M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ney,</hi> would have more than bought <hi>New England Preſidents</hi> Salary, allowed him by the <hi>Country</hi> for many years; yet God gave us an <hi>Inva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uable Man,</hi> and Oh what a <hi>Bleſſing with Him!</hi> You that go to <hi>Remote Parts</hi> will be moſt happily Situated to ſpread Religion in the <hi>American Iſlands &amp; Continent.</hi> If <hi>Schools of Learning</hi> fundamentally n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, to the Pro<g ref="char:EOLhyphen"/>pagation of Godlin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs forward to the Nations and down-ward to Poſterity, will not agree with the Governm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt and People there; <hi>I charge you in the Name of G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d &amp; the Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Jeſus Chriſt,</hi> and as you have any regard to the <hi>Souls
+<pb n="62" facs="tcp:46661:32" rendition="simple:additions"/> of your Poſterity</hi> (after that you have laboured with them, what you can for their Good) to <hi>Return to us again.</hi> However, <hi>Deſpair not,</hi> 'till you have made the Tryal. To Conclude then, Truſt <hi>GOD;</hi> Urge <hi>Man,</hi> and at it again and again; <hi>Watch</hi> much; <hi>Guard</hi> well; <hi>Pray</hi> hard and never give in; <hi>Work</hi> hard &amp; never be <hi>Weary;</hi> Ly <hi>Low,</hi> and look <hi>High;</hi> be upright though you hear Hypocrites for't; rather Dy in Gods cauſe, than hear Cowards; Walk <hi>Cloſe<g ref="char:EOLhyphen"/>ly</hi> with CHRIST; Sowe your ſ ed in <hi>Tears:</hi> Look hard for <hi>Tryals;</hi> and <hi>Hope</hi> to the End; Propagate what <hi>Good</hi> you have ſeen or gotten with Us, but leave Our <hi>Vices,</hi> behind you, <hi>Provoke not the Spaniard; Debauch not the In<g ref="char:EOLhyphen"/>dians</hi> with Drink; be Juſt to all men; and be ſure you <hi>Divide not one from another, or from your Worthy Eaſter.</hi> Sacrifice the <hi>World</hi> to <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> evermore; and be of <hi>Publick Spirits:</hi> Eye <hi>Chriſts Second Coming,</hi> as much as Anti<g ref="char:EOLunhyphen"/>ent Believers did His <hi>Firſt,</hi> and long for it: Do all you do, humbly &amp; valiantly <hi>in the Name of the Son of God:</hi> and often ſay one to another as <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ab</hi> to his Broth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r: 2 Sam. 10.12. <hi>Be of Good courage and let us play the men, for our People, and for the Citys of our God; and the</hi> LORD <hi>do that which ſeemeth Him Good</hi>
+               </p>
+               <p>Now the LORD the <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> of our <hi>Fathers,</hi> &amp; <hi>New Englands God <hi>be with you</hi>
+                  </hi> for Ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. Farewel <hi>Dear Brethren</hi> in the <hi>Lord,</hi> and be ſure
+<pb n="63" facs="tcp:46661:32" rendition="simple:additions"/> you <hi>Pray for us:</hi> and <hi>God</hi> forbid that we ſhould SIN agai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt the LORD in Ceaſing to Pray for You, 1 <hi>Sam</hi> 12.23 Man <hi>is nothing</hi> in GODS Work, and of himſelf can do <hi>No<g ref="char:EOLhyphen"/>thing,</hi> but what is <hi>worſe than N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thing</hi> and will <hi>come to Nothing or worſe:</hi> Set we then the LORD on work, by humble Prayer, that the LORD may be <hi>All in All.</hi> Now the <hi>Good Lord</hi> do away with His own moſt <hi>Precious B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ood,</hi> the Imperfections and Infirmities in this preſent Service, attending a poor Sinful Worm, that knows but in part and Prophecys but in part, and in a very ſmall part too; and make <hi>His own Word</hi> however, <hi>the Power of God</hi> to Your <hi>Salvations;</hi> for <hi>His own Names Sake.</hi> AMEN.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Errata.</hi> P. 14. l. 31. r. too p. 43. l. 23. r. for them</p>
+         </div>
+         <div type="memorandum">
+            <p>
+               <hi>Memo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andum.</hi> Unto the Diſcourſe, uttered in Publick, upon this Text, ſome what above a year agoe, ſome Additi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in theſe Printed S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eets, is made out of a Sermon Preached in Private ſome time ſince, un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o a Society of Chriſtians, keeping a Day of Prayer on the be<g ref="char:EOLhyphen"/>half of ſome of their Society, that were at that time, upon their Removal from them.</p>
+            <p>
+               <hi>To fill up the Vacant Pages the following</hi> POEMS, <hi>formerly Compoſed, are here ſuffixed.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="64" facs="tcp:46661:33"/>
+            <head>Upon the Triumphant TRANSLATION of a Mother in Our ISRAEL, <hi>Viz.</hi> Mrs. ANNE ELIOT. From <hi>This Life</hi> to a <hi>Better.</hi> on <hi>March</hi> 24th. 1687. <hi>Aetatis Suae.</hi> 84.</head>
+            <lg>
+               <l>ALL <hi>Hallelujahs,</hi> Oh ye <hi>Heav'nly Quires,</hi>
+               </l>
+               <l>Ye <hi>Powers,</hi> ye Winged &amp; Immortal <hi>Fires!</hi>
+               </l>
+               <l>Redouble to the <hi>Highest ONE:</hi>
+               </l>
+               <l>Here's Joy, to your Eternal <hi>Jubile</hi>
+               </l>
+               <l>Advanc'd, by th'New come welcome Company</l>
+               <l>Of a <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight Soul,</hi> but lately ſlown.</l>
+               <l>Congratulate</l>
+               <l>Eternally,</l>
+               <l>With Sacred <hi>Symphony,</hi>
+               </l>
+               <l>Her happy State</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Haile! <hi>Happy Soul!</hi>
+                  </hi> In Luſter excellent</l>
+               <l>Tranſcending far the <hi>Starry Firmament,</hi>
+               </l>
+               <l>Which is thy <hi>Foo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtool</hi> now become:</l>
+               <l>With all the World, <hi>America</hi> ſhall Vye,</l>
+               <l>For to Produce thy Peer: Now caſt thine E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>All round about that Spacious Room,</l>
+               <l>None ſhalt thou ſee</l>
+               <l>Of <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt Women,</hi>
+               </l>
+               <l>Much more <hi>Triumphant</hi> than</l>
+               <l>Thy ſelf to be</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Haile!</hi> Thou <hi>Sagacious &amp; Advent'rous <hi>Soul!</hi>
+                  </hi>
+               </l>
+               <l>Haile, <hi>Amazon!</hi> Created to Controll</l>
+               <pb n="65" facs="tcp:46661:33"/>
+               <l>Weak <hi>Nature's</hi> Foes, &amp; t'take her part,</l>
+               <l>The <hi>King of Terrours,</hi> Thou, ('till the Command</l>
+               <l>Irrevocable came to Stay thy Hand,)</l>
+               <l>Didſt oft <hi>Repel,</hi> by thy <hi>Choice Art:</hi>
+               </l>
+               <l>By <hi>High Decree,</hi>
+               </l>
+               <l>Long didſt thou ſtand</l>
+               <l>An <hi>Atlas,</hi> in <hi>Heav'n's Hand</hi>
+               </l>
+               <l>To th' <hi>World</hi> to be.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Hal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ujahs</hi> to His bounteous <hi>Care,</hi>
+               </l>
+               <l>That ſuch a <hi>Peerleſs <hi>Conſort</hi>
+                  </hi> did Prepare</l>
+               <l>For HIM, whom <hi>Sacred Things</hi> with held</l>
+               <l>From <hi>Secu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ars;</hi> Who was to <hi>Goſpellize,</hi>
+               </l>
+               <l>And <hi>Preach Redemption</hi> to <hi>GODS Enemys</hi>
+               </l>
+               <l>Beyound all <hi>Memory,</hi> Rebell'd:</l>
+               <l>For <hi>his ſake,</hi> ſure,</l>
+               <l>Thine <hi>Aged Life</hi>
+               </l>
+               <l>It did with <hi>Death</hi> in Strife</l>
+               <l>So long endure.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Heav'n's</hi> Richeſt Spices, Choiceſt Graces were</l>
+               <l>[<hi>Queen Eſther</hi> like,] allotted to <hi>Thy Share,</hi>
+               </l>
+               <l>For to <hi>Prepare</hi> Thee for thy KING:</l>
+               <l>Thee, to <hi>Pay Table,</hi> for <hi>Full Recompence,</hi>
+               </l>
+               <l>
+                  <hi>With Intereſt,</hi> for all thy Vaſt <hi>Expenſe,</hi>
+               </l>
+               <l>
+                  <hi>Ange<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> on Wings of <hi>Grace,</hi> ſtrait, bring:</l>
+               <l>As <hi>Pha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tiel,</hi>
+               </l>
+               <l>Thy CONSORT Dear</l>
+               <l>Mourning, Thee follow'th near,</l>
+               <l>To bid FAREWEL.</l>
+            </lg>
+            <byline>I. D.</byline>
+         </div>
+         <div type="poem">
+            <pb n="66" facs="tcp:46661:34"/>
+            <head>To the Bleſſed <hi>MEMORY</hi> of the <hi>Venerable</hi> Mr. JOHN ELIOT, TEACHER to the Church of CHRIST in <hi>Roxbury,</hi> and a PROPAGATOR of the Goſpel to the <hi>Indians</hi> in <hi>N-England.</hi> Who reſted from his Labours, <hi>May,</hi> 20. <hi>Anno Dom.</hi> 1690. <hi>Aetatis Suae.</hi> 86.</head>
+            <l>SHall ELIOT ſlip away? &amp; not his <hi>Sons</hi>
+            </l>
+            <l>Spy &amp; Regret it, with Athletick Groans?</l>
+            <l>None Cry <hi>Alarm,</hi> when <hi>Horſe</hi> &amp; <hi>Chariots</hi> taken?</l>
+            <l>None <hi>Feel, when Iſrael's weal's Foundation's</hi> ſhaken?</l>
+            <l>Lately, a ſtately Stone pluckt out; none 'ſpy it?</l>
+            <l>Nor run to ſtop the woful Breach made by it?</l>
+            <l>Where's ſweet Tongue'd <hi>David,</hi> ſad Song'd <hi>Jeremiah,</hi>
+            </l>
+            <l>
+               <hi>Jon'than</hi> to 'wail, to Elegiz <hi>Joſiah?</hi>
+            </l>
+            <l>Where's matchleſs <hi>Moſes's</hi> Muſe? Had I his <hi>Staff,</hi>
+            </l>
+            <l>I'd <hi>find</hi> one <hi>Grave,</hi> and 'Grave one Epitaph.</l>
+            <l>
+               <hi>Engliſh</hi> and <hi>Indian</hi> Work, he did ſo well,</l>
+            <l>Define we cannot, which did which excell</l>
+            <l>Pagans, <hi>This Paul</hi> converts; <hi>Peter</hi> doth uſe</l>
+            <l>His Talents chiefly to confirm the <hi>Jews.</hi>
+            </l>
+            <l>
+               <hi>Paul</hi> to <hi>Barbarians,</hi> own's Himſelf a Debtor;</l>
+            <l>Our <hi>John</hi> a brave <hi>Divine,</hi> T'Himſelf, no better</l>
+            <l>D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es ſupererrogate, in the vaſt Coſt</l>
+            <l>And Pains, expended to Reduce the loſt.</l>
+            <l>A brave <hi>Divine,</hi> ſaid I? I had not miſt,</l>
+            <l>Sure, had I Stil'd Him an <hi>Evangeliſt.</hi>
+            </l>
+            <pb n="67" facs="tcp:46661:34"/>
+            <l>To Trace their <hi>Pagan Genealogies</hi>
+            </l>
+            <l>Was not his Task, yet would his curious Eyes</l>
+            <l>Maugre oblivions Duſt, 'venture to ſcan</l>
+            <l>At leaſt by gueſs, Theſe hideous <hi>Wrecks</hi> of <hi>Man:</hi>
+            </l>
+            <l>And thought, he trackt, to <hi>Paleſtina's</hi> Strand:</l>
+            <l>How e're; He was reſolv'd, to th' Holy Land</l>
+            <l>Them <hi>to reduce,</hi> [might <hi>Heav'n</hi> a <hi>Moſes make</hi> him]</l>
+            <l>Nor did their barb'rous <hi>Heatheniſm</hi> ſhake him.</l>
+            <l>Th' <hi>Eternal Mind in Mortal Airs,</hi> nev'r blew</l>
+            <l>Unformed Blaſt; His Sov'reign Shalms yet flew</l>
+            <l>On <hi>Syriac</hi> Wings; His Gentleneſs equips</l>
+            <l>His Sacred Chariot with <hi>Chaldean</hi> Chips:</l>
+            <l>
+               <hi>Three Other,</hi> His own <hi>Mother-Tongue</hi> b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſide,</l>
+            <l>Upon His Paſcal <hi>Croſs,</hi> He Sanctify'd</l>
+            <l>His <hi>Tharſian-bred Apoſtle</hi> don't refuſe</l>
+            <l>To ſharp his Tools with <hi>Philistines,</hi> to uſe</l>
+            <l>
+               <hi>Greek Poets,</hi> cited to the Sacred Bar,</l>
+            <l>T' wait on <hi>Effata's</hi> more <hi>Oracular.</hi>
+            </l>
+            <l>Like <hi>Hercules</hi> toils ELIOT, leſt that He</l>
+            <l>Should to <hi>Barbarians,</hi> a <hi>Barbarian</hi> be.</l>
+            <l>Since <hi>Babel</hi>'s Trait'rous <hi>Tower</hi> was Thunderſmit,</l>
+            <l>By <hi>Heav'ns</hi> Inraged Ire, &amp; fell, &amp; ſplit</l>
+            <l>
+               <hi>One Tongue</hi> into a <hi>Thouſand Shivers,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </l>
+            <l>Can tell the Wounds, which this <hi>one Wo</hi> alone,</l>
+            <l>Hath <hi>more than ſcarr'd the World with; next th' Expulſion</hi>
+            </l>
+            <l>At firſt <hi>from Paradiſe,</hi> &amp; th' <hi>next Convulſion</hi>
+            </l>
+            <l>In Grandſire <hi>Japheth</hi>'s Time, no Storm before,</l>
+            <l>The Univerſal <hi>World</hi> e're delug'd more:</l>
+            <l>But now, thro' matchleſs Grace, to <hi>Eliot</hi>'s given</l>
+            <l>The <hi>Key</hi> t'expel what lockt men out of <hi>Heaven.</hi>
+            </l>
+            <pb n="68" facs="tcp:46661:35"/>
+            <l>His <hi>Tongue</hi> ſails right, with <hi>Indian</hi> Tempeſt toſt;</l>
+            <l>Puts in for <hi>Peter</hi>'s Plea, at <hi>Pentecoſt.</hi>
+            </l>
+            <l>The <hi>Ambaſsadour</hi> unto Them dares preferr.</l>
+            <l>
+               <hi>Offers</hi> of CHRIST, without <hi>Interpreter.</hi>
+            </l>
+            <l>Th' Incarnate <hi>Furys,</hi> ſtraitway from the <hi>Pit</hi>
+            </l>
+            <l>Of <hi>Darkneſs</hi> worſe than <hi>Egypts,</hi> Riſe, &amp; Spit</l>
+            <l>On all their <hi>Daemons,</hi> whilſt their Breaſt &amp; Brow</l>
+            <l>They to the LORD, &amp; to His <hi>Baptiſt</hi> vow.</l>
+            <l>One Teſtament <hi>Seventy Interpreters</hi>
+            </l>
+            <l>Tranſlate to <hi>Greek Antiquity</hi> avers;</l>
+            <l>
+               <hi>Both Testaments,</hi> yet ELIOT alone</l>
+            <l>Converts into the <hi>Indian</hi> Tongue &amp; Tone;</l>
+            <l>
+               <hi>Abel,</hi> tho' dead, yet ſpeaks, in one Tongue more;</l>
+            <l>
+               <hi>ſay's, Apollo's Eloquence,</hi> before,</l>
+            <l>Ne'r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rode in ſuch a <hi>Chariot: Luke</hi> Phyſician,</l>
+            <l>'Tho' skill'd in Pulſe,) would ſcarce tell the Condi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion</l>
+            <l>Of His own <hi>Goſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Pau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> with his much Learning</l>
+            <l>Would here be Poſed: —</l>
+            <l>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or 'though to <hi>many Regions</hi> He did paſs,</l>
+            <l>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et no <hi>West-Indian Antiquary</hi> was.</l>
+            <l>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>Thomas E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iot</hi> was Great <hi>Brittains</hi> Glory:</l>
+            <l>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Saint</hi> ſhall have a <hi>Chronicle</hi> in Ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Story:</l>
+            <l>Great XAV<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ER b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings the <hi>Crucifix &amp; Lib<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi>
+            </l>
+            <l>To <hi>Indian</hi> Souls, of <hi>Maſses;</hi> Ours, the Bible.</l>
+            <l>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anctius,</hi> for this, owns Him a Tutelary:</l>
+            <l>Calls on him &amp; hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> joyns with GOD &amp; <hi>Mary:</hi>
+            </l>
+            <l>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liot</hi> before ſuch curſed <hi>Adoration,</hi>
+            </l>
+            <l>Would chuſe much rather, an <hi>Annihilation.</hi>
+            </l>
+            <l>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et made His Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks before m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns Eyes to ſhine,</l>
+            <l>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat they might Glorifie the Name Divine,</l>
+            <pb n="69" facs="tcp:46661:35"/>
+            <l>The <hi>Indian-Work</hi> lay greatly on his Heart;</l>
+            <l>Until the <hi>Laſt,</hi> when <hi>He</hi> and <hi>That</hi> muſt part.</l>
+            <l>They parted not without moſt ſolemn <hi>Bleſſing,</hi>
+            </l>
+            <l>While <hi>Clouds</hi> thereon were to his Soul <hi>Diſtreſſing,</hi>
+            </l>
+            <l>He dyes; His Work, when Time Dyes ſhall ſurvive;</l>
+            <l>'Tho' Dead, yet ſpeaks, that th' <hi>Indian</hi> Work</l>
+            <l>And to's <hi>Suceſſors</hi> doth good Counſel give may Live,</l>
+            <l>Addreſs (I pray) our <hi>Senate</hi> for good <hi>Orders,</hi>
+            </l>
+            <l>'To <hi>Civilize</hi> the <hi>Heathen</hi> in our Borders.</l>
+            <l>'<hi>Vertue</hi> muſt turn into <hi>Neceſſity;</hi>
+            </l>
+            <l>'Or this brave Work, will in its Urn ſtill lye.</l>
+            <l>''Till <hi>Agriculture,</hi> and <hi>Cohabitation,</hi>
+            </l>
+            <l>'Come under full <hi>Conſtraint</hi> and <hi>Regulation,</hi>
+            </l>
+            <l>'Much you would do, you'l find <hi>Impracticable,</hi>
+            </l>
+            <l>'And much you do will prove <hi>
+                  <g ref="char:V">Ʋ</g>nprofitable.</hi>
+            </l>
+            <l>'In common Lands that lie unfenc'd you know</l>
+            <l>'The Husbandman, in vain doth plow &amp; fow:</l>
+            <l>'We hope in vain, the Plant of <hi>Grace</hi> ſhall thrive</l>
+            <l>'In Forreſts, where <hi>Civility</hi> can't Live.</l>
+            <l>'In <hi>Engliſh Towns,</hi> when they their Months do ſpend,</l>
+            <l>'Make Them, <hi>Gods Worſhip</hi> with <hi>us,</hi> to attend.</l>
+            <l>'Whilſt I us'd (as you muſt) <hi>ſharp Diſcipline,</hi>
+            </l>
+            <l>'The <hi>ſaving Gains were Theirs,</hi> the <hi>Pains were mine.</hi>
+            </l>
+            <l>'Their <hi>Tender Sors</hi> to Sacred Learnings Throne</l>
+            <l>'None can advance, but ſuch <hi>Divines</hi> alone,</l>
+            <l>'As are moſt Expert in their Dialect,</l>
+            <l>'If Teaching in their <hi>own Tongue</hi> we reſpect:</l>
+            <pb n="70" facs="tcp:46661:36"/>
+            <l>'<hi>Such Youths,</hi> (if GOD vouchſafe to Sanctify</l>
+            <l>'Their ſtudious minds) the <hi>ſacred Oars</hi> may Ply,</l>
+            <l>'Each Sabbath too, through S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arry Arches bring,</l>
+            <l>'<hi>Their Common H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mage</hi> to our <hi>Mighty King.</hi>
+            </l>
+            <l>'Look well to the <hi>
+                  <g ref="char:V">Ʋ</g>priſing Nurſery:</hi>
+            </l>
+            <l>'You know full <hi>well,</hi> none <hi>more</hi> for <hi>Schools</hi> than I</l>
+            <l>'To drown their Woes, ſome drown their Wits, and All</l>
+            <l>'Their Common Grace: <hi>Correct</hi> that Fault you ſhall.</l>
+            <l>'If you be <hi>Inſtant,</hi> only <hi>out of Seaſon,</hi>
+            </l>
+            <l>'Your Hope ſoars out of ſight of all my Reaſon,</l>
+            <l>'If you expect, (while <hi>Lords Days</hi> hold their Station)</l>
+            <l>'To Lecture them, on Week-Days, to Salvation.</l>
+            <l>impoſſible to make a Purſe,</l>
+            <l>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>' Invite a <hi>Lecturer,</hi> in <hi>Turns,</hi> to Nurſe</l>
+            <l>'Your <hi>Engliſh Flocks,</hi> That thoſe may have good Dreſſing</l>
+            <l>'That have moſt need, upon <hi>the Day of B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſing?</hi>
+            </l>
+            <l>'Their <hi>Indian Teachers</hi> are but <hi>Weak;</hi> I Wiſs;</l>
+            <l>'Thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Preaching, by their Hearers, ſlighted is:</l>
+            <l>'Take th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>this Way,</hi> to readvance the Standard</l>
+            <l>Of H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> late backſlidings Slander'd.</l>
+            <l>'Let fire-hot Zeal, boile in your thirſty Veins,</l>
+            <l>'To ſave poor Cai<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ffs from E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ernal Pains</l>
+            <l>'Our <hi>Antient Heroes,</hi> with their <hi>Eng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſh Prayers</hi>
+            </l>
+            <l>'Did <hi>edify <hi>Their</hi>
+               </hi> Souls; yet then, ſuch Ayres</l>
+            <l>'Were <hi>
+                  <g ref="char:V">Ʋ</g>nintelligible,</hi> more by far,</l>
+            <l>'Than now adays, (ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce long <hi>Converſe</hi>) they are</l>
+            <l>'Call many <hi>Engliſh Suppliants:</hi> Let them Kneel,</l>
+            <l>'With <hi>Them</hi> &amp; for <hi>Them;</hi> for their ſaving Weale.</l>
+            <pb n="71" facs="tcp:46661:36"/>
+            <l>'Joyn hand in hand: Help up the Weak, Heav'ns Stairs:</l>
+            <l>'<hi>Salvation,</hi> ſerves in pay of <hi>Joyned Prayers.</hi>
+            </l>
+            <l>'The Friends of <hi>Chriſt,</hi> &amp; <hi>Souls,</hi> Let none be mute</l>
+            <l>'In <hi>any Tongue,</hi> that can GODS Throne ſalute:</l>
+            <l>'FAST with and for <hi>Them</hi> alſo twice a Year,</l>
+            <l>''Twill ſhew, and bring their <hi>Reſurrection</hi> near.</l>
+            <l>'May GOD in Heav'n, &amp; may poor Heathens ſee</l>
+            <l>'That much affected, &amp; concern'd All be:</l>
+            <l>'<hi>Chriſts</hi> Interceſſions may they have rebound,</l>
+            <l>'Echo'd <hi>from</hi> hence, 'Twill to <hi>their Weal</hi> redound</l>
+            <l>'(Grand Uſurer) I, nev'r gave Heav'n a Mite</l>
+            <l>'But gain'd, &amp; gather'd, Thouſand Millions by't</l>
+            <l>'Never Regret <hi>(Brave Hearts!)</hi> your vaſt <hi>Expence</hi>
+            </l>
+            <l>'Of Time &amp; Pains: Mark well the Diff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rence</l>
+            <l>''Twixt Indian <hi>Traders</hi> &amp; their <hi>Teachers</hi> made;</l>
+            <l>'What <hi>Bleſſings</hi> Theſe, what <hi>Blastings</hi> Thoſe <hi>Invade</hi>
+            </l>
+            <l>'<hi>Thoſe</hi> often <hi>are annoy'd with miſchiefs,</hi> whiles</l>
+            <l>'<hi>Theſe</hi> doe enjoy moſt ſweet <hi>Coelestial ſmiles.</hi>
+            </l>
+            <l>His <hi>Cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> we have done with; And return,</l>
+            <l>To cloſe the Aſhes of his Sacred <hi>
+                  <g ref="char:V">Ʋ</g>rn.</hi>
+            </l>
+            <l>When Pious <hi>Grandſir</hi> lately came to viſit</l>
+            <l>This <hi>Saint,</hi> then at <hi>Heav'n's Gate,</hi> And ſaid, <hi>How is it?</hi>
+            </l>
+            <l>Such was his ſenſe, he ſagely made reply,</l>
+            <l>I am Afrai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: But not afraid to Dy:</l>
+            <l>Sir! <hi>Thank<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull Joy,</hi> My Motto is, (Quoth He)</l>
+            <l>Unto Another; And I Joy to ſee</l>
+            <l>What <hi>Lights <hi>Chriſt</hi>
+               </hi> ſets in 's <hi>Churches,</hi> &amp; that ſtill</l>
+            <l>GOD hath His <hi>Fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> that do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> His <hi>Temples</hi> fill.</l>
+            <l>How ſolemnly He <hi>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> 'em, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n tell;</l>
+            <l>Like <hi>Paul;</hi> Begging, mean while; their <hi>Pray'rs</hi> as well:</l>
+            <pb n="72" facs="tcp:46661:37"/>
+            <l>And may they <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſsed</hi> be! May they inherit,</l>
+            <l>A Double Portion of <hi>Elijah's <hi>Spirit.</hi>
+               </hi>
+            </l>
+            <l>On Golden <hi>Letters</hi> of <hi>His Name</hi> I muſed;</l>
+            <l>JOHN, diſtill'd <hi>Hony,</hi> ELIOT, <hi>Toile <hi>produced.</hi>
+               </hi>
+            </l>
+            <l>
+               <hi>Pains bring in gains; for ſweets, he ſweats: thus frau't</hi>
+            </l>
+            <l>
+               <hi>With richeſt Lading, To</hi> His Port, <hi>He's brought,</hi>
+            </l>
+            <l>This Veſſel yet of Honour, had not been</l>
+            <l>So ſoon ſeen under Saile, Had not our Sin</l>
+            <l>Deſerved &amp; Provoked ſuch a ſign</l>
+            <l>Of <hi>Woe</hi> deſcending from the Wrath Divine.</l>
+            <l>This blurs the <hi>Trophys</hi> of our New <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi>
+            </l>
+            <l>With Interlinements of ſad <hi>Interjections</hi>
+            </l>
+            <l>
+               <hi>Indians!</hi> Your Hearts are M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble, if Diſtreſs</l>
+            <l>Seize you not, for Unprofitableneſs.</l>
+            <l>Fear you not Wrath <hi>poor</hi> Souls! will <hi>you not grieve</hi>
+            </l>
+            <l>Th' <hi>Ambaſsador of Peace</hi> has tak'n his Leave.</l>
+            <l>He Lov'd your <hi>Nation</hi> dearly; did He not?</l>
+            <l>(Adding <hi>your Language</hi> to the <hi>Polyglott;</hi>)</l>
+            <l>In ways unparellell'd, his ſtrange Compaſſion</l>
+            <l>Drew Soul &amp; Subſtance out, for your S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lvation</l>
+            <l>
+               <hi>Heav'ns Fier<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Balls, Flames, Sm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke &amp; Thundring Sh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </l>
+            <l>And Bloody <hi>Drops,</hi> (lare Prodigies) are no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>More ſignal than this Death, at ſuch a ſeaſon</l>
+            <l>Such was <hi>Methuſelah's:</hi> and we have Reaſon,</l>
+            <l>May we have Grace, t' repent the Provocation,</l>
+            <l>With ſpeed, that crys aloud for Deſolation.</l>
+            <l>Yet Muſe! Don't overgroan: <hi>thy Fathers</hi> Gl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </l>
+            <l>In's reimbraced Colleague ſhould with Thee</l>
+            <l>Advance new <hi>Sonnets</hi> to His <hi>Jubilee</hi>
+            </l>
+            <l>Indulcify'd, ſweet ELIOT by Thee.</l>
+            <byline>I. D</byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46661:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
